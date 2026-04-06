@@ -48,3 +48,9 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 .Rproj.user
+
+# Lock files
+.~lock*
+
+# Data files
+*.parquet
