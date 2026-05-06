@@ -11,8 +11,7 @@ Fontes principais:
   <https://dadosabertos.saude.gov.br/dataset?q=ripsa>
 
 Os dados sao baixados diretamente dos recursos CKAN do Portal de Dados
-Abertos do SUS. O pacote nao depende de arquivos locais de indicadores
-nem de Zenodo.
+Abertos do SUS.
 
 ## Uso
 
