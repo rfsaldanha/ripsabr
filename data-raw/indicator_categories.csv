@@ -1,0 +1,1464 @@
+indicator_code,category_id,category_code,category_name,category_source_code,category_source_name
+COB.1.01,1,faixa_etaria_detalhada:1_a_4_anos,Faixa etária detalhada: 1 a 4 anos,NA,NA
+COB.1.01,2,faixa_etaria_detalhada:10_a_14_anos,Faixa etária detalhada: 10 a 14 anos,NA,NA
+COB.1.01,3,faixa_etaria_detalhada:15_a_19_anos,Faixa etária detalhada: 15 a 19 anos,NA,NA
+COB.1.01,4,faixa_etaria_detalhada:20_a_29_anos,Faixa etária detalhada: 20 a 29 anos,NA,NA
+COB.1.01,5,faixa_etaria_detalhada:30_a_39_anos,Faixa etária detalhada: 30 a 39 anos,NA,NA
+COB.1.01,6,faixa_etaria_detalhada:40_a_49_anos,Faixa etária detalhada: 40 a 49 anos,NA,NA
+COB.1.01,7,faixa_etaria_detalhada:5_a_9_anos,Faixa etária detalhada: 5 a 9 anos,NA,NA
+COB.1.01,8,faixa_etaria_detalhada:50_a_59_anos,Faixa etária detalhada: 50 a 59 anos,NA,NA
+COB.1.01,9,faixa_etaria_detalhada:60_a_69_anos,Faixa etária detalhada: 60 a 69 anos,NA,NA
+COB.1.01,10,faixa_etaria_detalhada:70_a_79_anos,Faixa etária detalhada: 70 a 79 anos,NA,NA
+COB.1.01,11,faixa_etaria_detalhada:80_anos_ou_mais,Faixa etária detalhada: 80 anos ou mais,NA,NA
+COB.1.01,12,faixa_etaria_detalhada:menor_de_1_ano,Faixa etária detalhada: Menor de 1 ano,NA,NA
+COB.1.01,13,faixa_etaria:0_a_9_anos,Faixa etária: 0 a 9 anos,NA,NA
+COB.1.01,14,faixa_etaria:10_a_19_anos,Faixa etária: 10 a 19 anos,NA,NA
+COB.1.01,15,faixa_etaria:20_a_49_anos,Faixa etária: 20 a 49 anos,NA,NA
+COB.1.01,16,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+COB.1.01,17,faixa_etaria:60_anos_ou_mais,Faixa etária: 60 anos ou mais,NA,NA
+COB.1.01,18,sexo:feminino,Sexo: Feminino,NA,NA
+COB.1.01,19,sexo:masculino,Sexo: Masculino,NA,NA
+COB.1.01,20,total,Total,NA,NA
+COB.1.02,1,especialidade:demais_especialidades,Especialidade: Demais especialidades,NA,NA
+COB.1.02,2,especialidade:medico_cardiologista,Especialidade: Médico cardiologista,NA,NA
+COB.1.02,3,especialidade:medico_cirurgiao_geral,Especialidade: Médico cirurgião geral,NA,NA
+COB.1.02,4,especialidade:medico_clinico,Especialidade: Médico clínico,NA,NA
+COB.1.02,5,especialidade:medico_dermatologista,Especialidade: Médico dermatologista,NA,NA
+COB.1.02,6,especialidade:medico_endocrinologista_e_metabologista,Especialidade: Médico endocrinologista e metabologista,NA,NA
+COB.1.02,7,especialidade:medico_gastroenterologista,Especialidade: Médico gastroenterologista,NA,NA
+COB.1.02,8,especialidade:medico_geriatra,Especialidade: Médico geriatra,NA,NA
+COB.1.02,9,especialidade:medico_ginecologista_e_obstetra,Especialidade: Médico ginecologista e obstetra,NA,NA
+COB.1.02,10,especialidade:medico_infectologista,Especialidade: Médico infectologista,NA,NA
+COB.1.02,11,especialidade:medico_nefrologista,Especialidade: Médico nefrologista,NA,NA
+COB.1.02,12,especialidade:medico_neurologista,Especialidade: Médico neurologista,NA,NA
+COB.1.02,13,especialidade:medico_oftalmologista,Especialidade: Médico oftalmologista,NA,NA
+COB.1.02,14,especialidade:medico_oncologista_clinico,Especialidade: Médico oncologista clínico,NA,NA
+COB.1.02,15,especialidade:medico_ortopedista_e_traumatologista,Especialidade: Médico ortopedista e traumatologista,NA,NA
+COB.1.02,16,especialidade:medico_otorrinolaringologista,Especialidade: Médico otorrinolaringologista,NA,NA
+COB.1.02,17,especialidade:medico_pediatra,Especialidade: Médico pediatra,NA,NA
+COB.1.02,18,especialidade:medico_psiquiatra,Especialidade: Médico psiquiatra,NA,NA
+COB.1.02,19,especialidade:medico_urologista,Especialidade: Médico urologista,NA,NA
+COB.1.02,20,total,Total,NA,NA
+COB.2.01,1,internacoes,internaçoes,NA,NA
+COB.2.01,2,internacoes_cirurgicas,internaçoes cirúrgicas,NA,NA
+COB.2.01,3,internacoes_clinicas,internaçoes clínicas,NA,NA
+COB.2.01,4,internacoes_obstetricas,internaçoes obstétricas,NA,NA
+COB.2.01,5,internacoes_pediatricas,internaçoes pediátricas,NA,NA
+COB.2.01,6,outras_especialidades,outras especialidades,NA,NA
+COB.2.02,1,internacoes,internaçoes,NA,NA
+COB.2.02,2,internacoes_cirurgicas,internaçoes cirúrgicas,NA,NA
+COB.2.02,3,internacoes_clinicas,internaçoes clínicas,NA,NA
+COB.2.02,4,internacoes_espec_nao_inform,internaçoes espec.nao inform.,NA,NA
+COB.2.02,5,internacoes_obstetricas,internaçoes obstétricas,NA,NA
+COB.2.02,6,internacoes_pediatricas,internaçoes pediátricas,NA,NA
+COB.2.02,7,internacoes_psiquiatricas,internaçoes psiquiátricas,NA,NA
+COB.4.01,1,nascidos_vivos_com_1_5_consultas,Nascidos vivos com 1-5 consultas,NA,NA
+COB.4.01,2,nascidos_vivos_com_1_6_consultas,Nascidos vivos com 1-6 consultas,NA,NA
+COB.4.01,3,nascidos_vivos_com_6_ou_mais_consultas,Nascidos vivos com 6 ou mais consultas,NA,NA
+COB.4.01,4,nascidos_vivos_com_7_ou_mais_consultas,Nascidos vivos com 7 ou mais consultas,NA,NA
+COB.4.01,5,nascidos_vivos_de_partos_hospitalares,Nascidos vivos de partos hospitalares,NA,NA
+COB.4.01,6,nascidos_vivos_sem_consultas,Nascidos vivos sem consultas,NA,NA
+COB.4.02,1,nascidos_vivos_de_partos_hospitalares,Nascidos vivos de partos hospitalares,NA,NA
+COB.4.03,1,parto_cesareos,Parto cesáreos,NA,NA
+COB.5.01,1,faixa_etaria:0_a_9_anos,Faixa etária: 0 a 9 anos,NA,NA
+COB.5.01,2,faixa_etaria:10_a_19_anos,Faixa etária: 10 a 19 anos,NA,NA
+COB.5.01,3,faixa_etaria:20_a_49_anos,Faixa etária: 20 a 49 anos,NA,NA
+COB.5.01,4,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+COB.5.01,5,faixa_etaria:60_anos_ou_mais,Faixa etária: 60 anos ou mais,NA,NA
+COB.5.01,6,segmentacao_assistencial_do_plano:ambulatorial,Segmentação assistencial do plano: Ambulatorial,NA,NA
+COB.5.01,7,segmentacao_assistencial_do_plano:hospitalar,Segmentação assistencial do plano: Hospitalar,NA,NA
+COB.5.01,8,segmentacao_assistencial_do_plano:hospitalar_e_ambulatorial,Segmentação assistencial do plano: Hospitalar e Ambulatorial,NA,NA
+COB.5.01,9,sexo:feminino,Sexo: Feminino,NA,NA
+COB.5.01,10,sexo:masculino,Sexo: Masculino,NA,NA
+COB.5.01,11,total,Total,NA,NA
+DEM.1.01,1,idade:01_ano,Idade: 01 ano,NA,NA
+DEM.1.01,2,idade:02_anos,Idade: 02 anos,NA,NA
+DEM.1.01,3,idade:03_anos,Idade: 03 anos,NA,NA
+DEM.1.01,4,idade:04_anos,Idade: 04 anos,NA,NA
+DEM.1.01,5,idade:05_anos,Idade: 05 anos,NA,NA
+DEM.1.01,6,idade:06_anos,Idade: 06 anos,NA,NA
+DEM.1.01,7,idade:07_anos,Idade: 07 anos,NA,NA
+DEM.1.01,8,idade:08_anos,Idade: 08 anos,NA,NA
+DEM.1.01,9,idade:09_anos,Idade: 09 anos,NA,NA
+DEM.1.01,10,idade:10_anos,Idade: 10 anos,NA,NA
+DEM.1.01,11,idade:11_anos,Idade: 11 anos,NA,NA
+DEM.1.01,12,idade:12_anos,Idade: 12 anos,NA,NA
+DEM.1.01,13,idade:13_anos,Idade: 13 anos,NA,NA
+DEM.1.01,14,idade:14_anos,Idade: 14 anos,NA,NA
+DEM.1.01,15,idade:15_anos,Idade: 15 anos,NA,NA
+DEM.1.01,16,idade:16_anos,Idade: 16 anos,NA,NA
+DEM.1.01,17,idade:17_anos,Idade: 17 anos,NA,NA
+DEM.1.01,18,idade:18_anos,Idade: 18 anos,NA,NA
+DEM.1.01,19,idade:19_anos,Idade: 19 anos,NA,NA
+DEM.1.01,20,idade:20_anos,Idade: 20 anos,NA,NA
+DEM.1.01,21,idade:21_anos,Idade: 21 anos,NA,NA
+DEM.1.01,22,idade:22_anos,Idade: 22 anos,NA,NA
+DEM.1.01,23,idade:23_anos,Idade: 23 anos,NA,NA
+DEM.1.01,24,idade:24_anos,Idade: 24 anos,NA,NA
+DEM.1.01,25,idade:25_anos,Idade: 25 anos,NA,NA
+DEM.1.01,26,idade:26_anos,Idade: 26 anos,NA,NA
+DEM.1.01,27,idade:27_anos,Idade: 27 anos,NA,NA
+DEM.1.01,28,idade:28_anos,Idade: 28 anos,NA,NA
+DEM.1.01,29,idade:29_anos,Idade: 29 anos,NA,NA
+DEM.1.01,30,idade:30_anos,Idade: 30 anos,NA,NA
+DEM.1.01,31,idade:31_anos,Idade: 31 anos,NA,NA
+DEM.1.01,32,idade:32_anos,Idade: 32 anos,NA,NA
+DEM.1.01,33,idade:33_anos,Idade: 33 anos,NA,NA
+DEM.1.01,34,idade:34_anos,Idade: 34 anos,NA,NA
+DEM.1.01,35,idade:35_anos,Idade: 35 anos,NA,NA
+DEM.1.01,36,idade:36_anos,Idade: 36 anos,NA,NA
+DEM.1.01,37,idade:37_anos,Idade: 37 anos,NA,NA
+DEM.1.01,38,idade:38_anos,Idade: 38 anos,NA,NA
+DEM.1.01,39,idade:39_anos,Idade: 39 anos,NA,NA
+DEM.1.01,40,idade:40_anos,Idade: 40 anos,NA,NA
+DEM.1.01,41,idade:41_anos,Idade: 41 anos,NA,NA
+DEM.1.01,42,idade:42_anos,Idade: 42 anos,NA,NA
+DEM.1.01,43,idade:43_anos,Idade: 43 anos,NA,NA
+DEM.1.01,44,idade:44_anos,Idade: 44 anos,NA,NA
+DEM.1.01,45,idade:45_anos,Idade: 45 anos,NA,NA
+DEM.1.01,46,idade:46_anos,Idade: 46 anos,NA,NA
+DEM.1.01,47,idade:47_anos,Idade: 47 anos,NA,NA
+DEM.1.01,48,idade:48_anos,Idade: 48 anos,NA,NA
+DEM.1.01,49,idade:49_anos,Idade: 49 anos,NA,NA
+DEM.1.01,50,idade:50_anos,Idade: 50 anos,NA,NA
+DEM.1.01,51,idade:51_anos,Idade: 51 anos,NA,NA
+DEM.1.01,52,idade:52_anos,Idade: 52 anos,NA,NA
+DEM.1.01,53,idade:53_anos,Idade: 53 anos,NA,NA
+DEM.1.01,54,idade:54_anos,Idade: 54 anos,NA,NA
+DEM.1.01,55,idade:55_anos,Idade: 55 anos,NA,NA
+DEM.1.01,56,idade:56_anos,Idade: 56 anos,NA,NA
+DEM.1.01,57,idade:57_anos,Idade: 57 anos,NA,NA
+DEM.1.01,58,idade:58_anos,Idade: 58 anos,NA,NA
+DEM.1.01,59,idade:59_anos,Idade: 59 anos,NA,NA
+DEM.1.01,60,idade:60_anos,Idade: 60 anos,NA,NA
+DEM.1.01,61,idade:61_anos,Idade: 61 anos,NA,NA
+DEM.1.01,62,idade:62_anos,Idade: 62 anos,NA,NA
+DEM.1.01,63,idade:63_anos,Idade: 63 anos,NA,NA
+DEM.1.01,64,idade:64_anos,Idade: 64 anos,NA,NA
+DEM.1.01,65,idade:65_anos,Idade: 65 anos,NA,NA
+DEM.1.01,66,idade:66_anos,Idade: 66 anos,NA,NA
+DEM.1.01,67,idade:67_anos,Idade: 67 anos,NA,NA
+DEM.1.01,68,idade:68_anos,Idade: 68 anos,NA,NA
+DEM.1.01,69,idade:69_anos,Idade: 69 anos,NA,NA
+DEM.1.01,70,idade:70_anos,Idade: 70 anos,NA,NA
+DEM.1.01,71,idade:71_anos,Idade: 71 anos,NA,NA
+DEM.1.01,72,idade:72_anos,Idade: 72 anos,NA,NA
+DEM.1.01,73,idade:73_anos,Idade: 73 anos,NA,NA
+DEM.1.01,74,idade:74_anos,Idade: 74 anos,NA,NA
+DEM.1.01,75,idade:75_anos,Idade: 75 anos,NA,NA
+DEM.1.01,76,idade:76_anos,Idade: 76 anos,NA,NA
+DEM.1.01,77,idade:77_anos,Idade: 77 anos,NA,NA
+DEM.1.01,78,idade:78_anos,Idade: 78 anos,NA,NA
+DEM.1.01,79,idade:79_anos,Idade: 79 anos,NA,NA
+DEM.1.01,80,idade:80_anos_e_mais,Idade: 80 anos e mais,NA,NA
+DEM.1.01,81,idade:menor_de_1_ano,Idade: Menor de 1 ano,NA,NA
+DEM.1.01,82,sexo:feminino,Sexo: Feminino,NA,NA
+DEM.1.01,83,sexo:masculino,Sexo: Masculino,NA,NA
+DEM.1.01,84,total,Total,NA,NA
+DEM.1.02,1,populacao_masculina,Populaçao masculina,NA,NA
+DEM.1.03,1,total,Total,NA,NA
+DEM.1.04,1,total,Total,NA,NA
+DEM.1.05,1,sexo:feminino,Sexo: Feminino,NA,NA
+DEM.1.05,2,sexo:masculino,Sexo: Masculino,NA,NA
+DEM.1.05,3,total,Total,NA,NA
+DEM.1.06,1,sexo:feminino,Sexo: Feminino,NA,NA
+DEM.1.06,2,sexo:masculino,Sexo: Masculino,NA,NA
+DEM.1.06,3,total,Total,NA,NA
+DEM.1.07,1,faixa_etaria:60_anos_ou_mais,Faixa etaria: 60 anos ou mais,NA,NA
+DEM.1.07,2,faixa_etaria:menores_de_15_anos,Faixa etaria: Menores de 15 anos,NA,NA
+DEM.1.07,3,total,Total,NA,NA
+DEM.2.01,1,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+DEM.2.01,2,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+DEM.2.01,3,faixa_etaria:20_a_24_anos,Faixa etária: 20 a 24 anos,NA,NA
+DEM.2.01,4,faixa_etaria:25_a_29_anos,Faixa etária: 25 a 29 anos,NA,NA
+DEM.2.01,5,faixa_etaria:30_a_34_anos,Faixa etária: 30 a 34 anos,NA,NA
+DEM.2.01,6,faixa_etaria:35_a_39_anos,Faixa etária: 35 a 39 anos,NA,NA
+DEM.2.01,7,faixa_etaria:40_a_44_anos,Faixa etária: 40 a 44 anos,NA,NA
+DEM.2.01,8,faixa_etaria:45_a_49_anos,Faixa etária: 45 a 49 anos,NA,NA
+DEM.2.01,9,faixa_etaria:50_a_54_anos,Faixa etária: 50 a 54 anos,NA,NA
+DEM.2.02,1,total,Total,NA,NA
+DEM.2.03,1,total,Total,NA,NA
+DEM.3.01,1,faixa_etaria:01_a_04_anos,Faixa etária: 01 a 04 anos,NA,NA
+DEM.3.01,2,faixa_etaria:05_a_10_anos,Faixa etária: 05 a 10 anos,NA,NA
+DEM.3.01,3,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+DEM.3.01,4,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+DEM.3.01,5,faixa_etaria:20_a_24_anos,Faixa etária: 20 a 24 anos,NA,NA
+DEM.3.01,6,faixa_etaria:25_a_30_anos,Faixa etária: 25 a 30 anos,NA,NA
+DEM.3.01,7,faixa_etaria:30_a_34_anos,Faixa etária: 30 a 34 anos,NA,NA
+DEM.3.01,8,faixa_etaria:35_a_39_anos,Faixa etária: 35 a 39 anos,NA,NA
+DEM.3.01,9,faixa_etaria:40_a_44_anos,Faixa etária: 40 a 44 anos,NA,NA
+DEM.3.01,10,faixa_etaria:45_a_49_anos,Faixa etária: 45 a 49 anos,NA,NA
+DEM.3.01,11,faixa_etaria:50_a_54_anos,Faixa etária: 50 a 54 anos,NA,NA
+DEM.3.01,12,faixa_etaria:55_a_59_anos,Faixa etária: 55 a 59 anos,NA,NA
+DEM.3.01,13,faixa_etaria:60_a_64_anos,Faixa etária: 60 a 64 anos,NA,NA
+DEM.3.01,14,faixa_etaria:65_a_69_anos,Faixa etária: 65 a 69 anos,NA,NA
+DEM.3.01,15,faixa_etaria:70_a_74_anos,Faixa etária: 70 a 74 anos,NA,NA
+DEM.3.01,16,faixa_etaria:75_a_79_anos,Faixa etária: 75 a 79 anos,NA,NA
+DEM.3.01,17,faixa_etaria:80_a_84_anos,Faixa etária: 80 a 84 anos,NA,NA
+DEM.3.01,18,faixa_etaria:85_a_89_anos,Faixa etária: 85 a 89 anos,NA,NA
+DEM.3.01,19,faixa_etaria:90_anos_ou_mais,Faixa etária: 90 anos ou mais,NA,NA
+DEM.3.01,20,faixa_etaria:menor_de_1_ano,Faixa etária: Menor de 1 ano,NA,NA
+DEM.3.01,21,sexo_feminino_faixa_etaria:01_a_04_anos,Sexo Feminino - Faixa etária: 01 a 04 anos,NA,NA
+DEM.3.01,22,sexo_feminino_faixa_etaria:05_a_10_anos,Sexo Feminino - Faixa etária: 05 a 10 anos,NA,NA
+DEM.3.01,23,sexo_feminino_faixa_etaria:10_a_14_anos,Sexo Feminino - Faixa etária: 10 a 14 anos,NA,NA
+DEM.3.01,24,sexo_feminino_faixa_etaria:15_a_19_anos,Sexo Feminino - Faixa etária: 15 a 19 anos,NA,NA
+DEM.3.01,25,sexo_feminino_faixa_etaria:20_a_24_anos,Sexo Feminino - Faixa etária: 20 a 24 anos,NA,NA
+DEM.3.01,26,sexo_feminino_faixa_etaria:25_a_30_anos,Sexo Feminino - Faixa etária: 25 a 30 anos,NA,NA
+DEM.3.01,27,sexo_feminino_faixa_etaria:30_a_34_anos,Sexo Feminino - Faixa etária: 30 a 34 anos,NA,NA
+DEM.3.01,28,sexo_feminino_faixa_etaria:35_a_39_anos,Sexo Feminino - Faixa etária: 35 a 39 anos,NA,NA
+DEM.3.01,29,sexo_feminino_faixa_etaria:40_a_44_anos,Sexo Feminino - Faixa etária: 40 a 44 anos,NA,NA
+DEM.3.01,30,sexo_feminino_faixa_etaria:45_a_49_anos,Sexo Feminino - Faixa etária: 45 a 49 anos,NA,NA
+DEM.3.01,31,sexo_feminino_faixa_etaria:50_a_54_anos,Sexo Feminino - Faixa etária: 50 a 54 anos,NA,NA
+DEM.3.01,32,sexo_feminino_faixa_etaria:55_a_59_anos,Sexo Feminino - Faixa etária: 55 a 59 anos,NA,NA
+DEM.3.01,33,sexo_feminino_faixa_etaria:60_a_64_anos,Sexo Feminino - Faixa etária: 60 a 64 anos,NA,NA
+DEM.3.01,34,sexo_feminino_faixa_etaria:65_a_69_anos,Sexo Feminino - Faixa etária: 65 a 69 anos,NA,NA
+DEM.3.01,35,sexo_feminino_faixa_etaria:70_a_74_anos,Sexo Feminino - Faixa etária: 70 a 74 anos,NA,NA
+DEM.3.01,36,sexo_feminino_faixa_etaria:75_a_79_anos,Sexo Feminino - Faixa etária: 75 a 79 anos,NA,NA
+DEM.3.01,37,sexo_feminino_faixa_etaria:80_a_84_anos,Sexo Feminino - Faixa etária: 80 a 84 anos,NA,NA
+DEM.3.01,38,sexo_feminino_faixa_etaria:85_a_89_anos,Sexo Feminino - Faixa etária: 85 a 89 anos,NA,NA
+DEM.3.01,39,sexo_feminino_faixa_etaria:90_anos_ou_mais,Sexo Feminino - Faixa etária: 90 anos ou mais,NA,NA
+DEM.3.01,40,sexo_feminino_faixa_etaria:menor_de_1_ano,Sexo Feminino - Faixa etária: Menor de 1 ano,NA,NA
+DEM.3.01,41,sexo_masculino_faixa_etaria:01_a_04_anos,Sexo Masculino - Faixa etária: 01 a 04 anos,NA,NA
+DEM.3.01,42,sexo_masculino_faixa_etaria:05_a_10_anos,Sexo Masculino - Faixa etária: 05 a 10 anos,NA,NA
+DEM.3.01,43,sexo_masculino_faixa_etaria:10_a_14_anos,Sexo Masculino - Faixa etária: 10 a 14 anos,NA,NA
+DEM.3.01,44,sexo_masculino_faixa_etaria:15_a_19_anos,Sexo Masculino - Faixa etária: 15 a 19 anos,NA,NA
+DEM.3.01,45,sexo_masculino_faixa_etaria:20_a_24_anos,Sexo Masculino - Faixa etária: 20 a 24 anos,NA,NA
+DEM.3.01,46,sexo_masculino_faixa_etaria:25_a_30_anos,Sexo Masculino - Faixa etária: 25 a 30 anos,NA,NA
+DEM.3.01,47,sexo_masculino_faixa_etaria:30_a_34_anos,Sexo Masculino - Faixa etária: 30 a 34 anos,NA,NA
+DEM.3.01,48,sexo_masculino_faixa_etaria:35_a_39_anos,Sexo Masculino - Faixa etária: 35 a 39 anos,NA,NA
+DEM.3.01,49,sexo_masculino_faixa_etaria:40_a_44_anos,Sexo Masculino - Faixa etária: 40 a 44 anos,NA,NA
+DEM.3.01,50,sexo_masculino_faixa_etaria:45_a_49_anos,Sexo Masculino - Faixa etária: 45 a 49 anos,NA,NA
+DEM.3.01,51,sexo_masculino_faixa_etaria:50_a_54_anos,Sexo Masculino - Faixa etária: 50 a 54 anos,NA,NA
+DEM.3.01,52,sexo_masculino_faixa_etaria:55_a_59_anos,Sexo Masculino - Faixa etária: 55 a 59 anos,NA,NA
+DEM.3.01,53,sexo_masculino_faixa_etaria:60_a_64_anos,Sexo Masculino - Faixa etária: 60 a 64 anos,NA,NA
+DEM.3.01,54,sexo_masculino_faixa_etaria:65_a_69_anos,Sexo Masculino - Faixa etária: 65 a 69 anos,NA,NA
+DEM.3.01,55,sexo_masculino_faixa_etaria:70_a_74_anos,Sexo Masculino - Faixa etária: 70 a 74 anos,NA,NA
+DEM.3.01,56,sexo_masculino_faixa_etaria:75_a_79_anos,Sexo Masculino - Faixa etária: 75 a 79 anos,NA,NA
+DEM.3.01,57,sexo_masculino_faixa_etaria:80_a_84_anos,Sexo Masculino - Faixa etária: 80 a 84 anos,NA,NA
+DEM.3.01,58,sexo_masculino_faixa_etaria:85_a_89_anos,Sexo Masculino - Faixa etária: 85 a 89 anos,NA,NA
+DEM.3.01,59,sexo_masculino_faixa_etaria:90_anos_ou_mais,Sexo Masculino - Faixa etária: 90 anos ou mais,NA,NA
+DEM.3.01,60,sexo_masculino_faixa_etaria:menor_de_1_ano,Sexo Masculino - Faixa etária: Menor de 1 ano,NA,NA
+DEM.3.02,1,sexo:feminino,Sexo: Feminino,NA,NA
+DEM.3.02,2,sexo:masculino,Sexo: Masculino,NA,NA
+DEM.3.02,3,total,Total,NA,NA
+DEM.3.04,1,sexo:feminino,Sexo: Feminino,NA,NA
+DEM.3.04,2,sexo:masculino,Sexo: Masculino,NA,NA
+DEM.3.04,3,total,Total,NA,NA
+DEM.3.05,1,sexo:feminino,Sexo: Feminino,NA,NA
+DEM.3.05,2,sexo:masculino,Sexo: Masculino,NA,NA
+DEM.3.05,3,total,Total,NA,NA
+DEM.4.01,1,numero_informado_nascidos_vivos_sinasc,Número informado nascidos vivos SINASC,NA,NA
+DEM.4.02,1,numero_informado_de_obitos_no_sim,Número informado de óbitos no SIM,NA,NA
+FRP.7.01,1,numero_de_parturientes_ate_10_anos,Número de parturientes até 10 anos,NA,NA
+FRP.7.01,2,numero_de_parturientes_de_10_a_14_anos,Número de parturientes de 10 a 14 anos,NA,NA
+FRP.7.01,3,numero_de_parturientes_de_15_a_19_anos,Número de parturientes de 15 a 19 anos,NA,NA
+FRP.7.01,4,numero_de_parturientes_de_20_a_34_anos,Número de parturientes de 20 a 34 anos,NA,NA
+FRP.7.01,5,numero_de_parturientes_de_35_a_39_anos,Número de parturientes de 35 a 39 anos,NA,NA
+FRP.7.01,6,numero_de_parturientes_de_40_anos_e_mais,Número de parturientes de 40 anos e mais,NA,NA
+FRP.7.01,7,numero_de_parturientes_de_idade_ignorada,Número de parturientes de idade ignorada,NA,NA
+FRP.7.02,1,numero_nv_baixo_peso,Número NV baixo peso,NA,NA
+FRP.7.02,2,numero_nv_baixo_peso_a_termo,Número NV baixo peso - a termo,NA,NA
+FRP.7.02,3,numero_nv_baixo_peso_duracao_gest_ign,Número NV baixo peso - duraçao gest ign,NA,NA
+FRP.7.02,4,numero_nv_baixo_peso_pos_termo,Número NV baixo peso - pós-termo,NA,NA
+FRP.7.02,5,numero_nv_baixo_peso_pre_termo,Número NV baixo peso - pré-termo,NA,NA
+FRP.7.03,1,numero_de_nv_com_anomalias_congenitas,Número de NV com anomalias congênitas,NA,NA
+MRB.1.01,1,faixa_etaria,Faixa etária,NA,NA
+MRB.1.01,2,faixa_etaria:1_a_4_anos,Faixa etária: 1 a 4 anos,NA,NA
+MRB.1.01,3,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+MRB.1.01,4,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+MRB.1.01,5,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRB.1.01,6,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRB.1.01,7,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRB.1.01,8,faixa_etaria:5_a_9_anos,Faixa etária: 5 a 9 anos,NA,NA
+MRB.1.01,9,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.1.01,10,faixa_etaria:60_anos_ou_mais,Faixa etária: 60 anos ou mais,NA,NA
+MRB.1.01,11,faixa_etaria:menor_de_1_ano,Faixa etária: Menor de 1 ano,NA,NA
+MRB.1.01,12,sexo:feminino,Sexo: Feminino,NA,NA
+MRB.1.01,13,sexo:masculino,Sexo: Masculino,NA,NA
+MRB.1.01,14,sexo:nao_informado,Sexo: Não informado,NA,NA
+MRB.1.01,15,situacao_vacinal:nao_informado,Situação vacinal: Não informado,NA,NA
+MRB.1.01,16,situacao_vacinal:nao_vacinado,Situação vacinal: Não vacinado,NA,NA
+MRB.1.01,17,situacao_vacinal:nao_vacinado_informado,Situação vacinal: Não vacinado informado,NA,NA
+MRB.1.01,18,situacao_vacinal:vacinado,Situação vacinal: Vacinado,NA,NA
+MRB.1.01,19,tipo_do_caso:autoctone,Tipo do caso: Autóctone,NA,NA
+MRB.1.01,20,tipo_do_caso:importado,Tipo do caso: Importado,NA,NA
+MRB.1.01,21,tipo_do_caso:nao_informado,Tipo do caso: Não informado,NA,NA
+MRB.1.01,22,total,Total,NA,NA
+MRB.1.02,1,faixa_etaria,Faixa etária,NA,NA
+MRB.1.02,2,faixa_etaria:1_a_4_anos,Faixa etária: 1 a 4 anos,NA,NA
+MRB.1.02,3,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+MRB.1.02,4,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+MRB.1.02,5,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRB.1.02,6,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRB.1.02,7,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRB.1.02,8,faixa_etaria:5_a_9_anos,Faixa etária: 5 a 9 anos,NA,NA
+MRB.1.02,9,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.1.02,10,faixa_etaria:60_anos_ou_mais,Faixa etária: 60 anos ou mais,NA,NA
+MRB.1.02,11,faixa_etaria:menor_de_1_ano,Faixa etária: Menor de 1 ano,NA,NA
+MRB.1.02,12,sexo:feminino,Sexo: Feminino,NA,NA
+MRB.1.02,13,sexo:masculino,Sexo: Masculino,NA,NA
+MRB.1.02,14,sexo:nao_informado,Sexo: Não informado,NA,NA
+MRB.1.02,15,situacao_vacinal:nao_informado,Situação vacinal: Não informado,NA,NA
+MRB.1.02,16,situacao_vacinal:nao_vacinado,Situação vacinal: Não vacinado,NA,NA
+MRB.1.02,17,situacao_vacinal:nao_vacinado_informado,Situação vacinal: Não vacinado informado,NA,NA
+MRB.1.02,18,situacao_vacinal:vacinado,Situação vacinal: Vacinado,NA,NA
+MRB.1.02,19,tipo_do_caso:autoctone,Tipo do caso: Autóctone,NA,NA
+MRB.1.02,20,tipo_do_caso:importado,Tipo do caso: Importado,NA,NA
+MRB.1.02,21,tipo_do_caso:nao_informado,Tipo do caso: Não informado,NA,NA
+MRB.1.02,22,total,Total,NA,NA
+MRB.1.04,1,evolucao:cura_com_sequela,Evolução: Cura com sequela,NA,NA
+MRB.1.04,2,evolucao:cura_sem_sequela,Evolução: Cura sem Sequela,NA,NA
+MRB.1.04,3,evolucao:nao_informado,Evolução: Não informado,NA,NA
+MRB.1.04,4,evolucao:obito_por_difteria,Evolução: Óbito por Difteria,NA,NA
+MRB.1.04,5,evolucao:obito_por_outras_causas,Evolução: Óbito por outras causas,NA,NA
+MRB.1.04,6,faixa_etaria,Faixa etária,NA,NA
+MRB.1.04,7,faixa_etaria:1_a_4_anos,Faixa etária: 1 a 4 anos,NA,NA
+MRB.1.04,8,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+MRB.1.04,9,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+MRB.1.04,10,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRB.1.04,11,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRB.1.04,12,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRB.1.04,13,faixa_etaria:5_a_9_anos,Faixa etária: 5 a 9 anos,NA,NA
+MRB.1.04,14,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.1.04,15,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+MRB.1.04,16,faixa_etaria:menor_de_1_ano,Faixa etária: Menor de 1 ano,NA,NA
+MRB.1.04,17,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+MRB.1.04,18,raca_cor:branca,Raça/cor: Branca,NA,NA
+MRB.1.04,19,raca_cor:nao_informado,Raça/cor: Não informado,NA,NA
+MRB.1.04,20,raca_cor:parda,Raça/cor: Não Informado,NA,NA
+MRB.1.04,21,raca_cor:preta,Raça/cor: Parda,NA,NA
+MRB.1.04,22,sexo:feminino,Raça/cor: Preta,NA,NA
+MRB.1.04,23,sexo:masculino,Sexo: Feminino,NA,NA
+MRB.1.04,24,sexo:nao_informado,Sexo: Masculino,NA,NA
+MRB.1.04,25,total,Sexo: Não informado,NA,NA
+MRB.1.04,26,evolucao:cura_com_sequela,Total,NA,NA
+MRB.1.06,1,raca_cor:branca,Raça/cor: Branca,NA,NA
+MRB.1.06,2,raca_cor:nao_informado,Raça/cor: Não informado,NA,NA
+MRB.1.06,3,raca_cor:parda,Raça/cor: Parda,NA,NA
+MRB.1.06,4,sexo:feminino,Sexo: Feminino,NA,NA
+MRB.1.06,5,sexo:nao_informado,Sexo: Não informado,NA,NA
+MRB.1.06,6,total,Total,NA,NA
+MRB.1.07,1,faixa_etaria,Faixa etária,NA,NA
+MRB.1.07,2,faixa_etaria:1_a_4_anos,Faixa etária: 1 a 4 anos,NA,NA
+MRB.1.07,3,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+MRB.1.07,4,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+MRB.1.07,5,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRB.1.07,6,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRB.1.07,7,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRB.1.07,8,faixa_etaria:5_a_9_anos,Faixa etária: 5 a 9 anos,NA,NA
+MRB.1.07,9,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.1.07,10,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+MRB.1.07,11,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+MRB.1.07,12,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+MRB.1.07,13,faixa_etaria:menor_de_1_ano,Faixa etária: Menor de 1 ano,NA,NA
+MRB.1.07,14,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+MRB.1.07,15,raca_cor:branca,Raça/cor: Branca,NA,NA
+MRB.1.07,16,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+MRB.1.07,17,raca_cor:nao_informado,Raça/cor: Não informado,NA,NA
+MRB.1.07,18,raca_cor:parda,Raça/cor: Não Informado,NA,NA
+MRB.1.07,19,raca_cor:preta,Raça/cor: Parda,NA,NA
+MRB.1.07,20,sexo:feminino,Raça/cor: Preta,NA,NA
+MRB.1.07,21,sexo:masculino,Sexo: Feminino,NA,NA
+MRB.1.07,22,sexo:nao_informado,Sexo: Masculino,NA,NA
+MRB.1.07,23,total,Sexo: Não informado,NA,NA
+MRB.1.07,24,faixa_etaria,Total,NA,NA
+MRB.1.09,1,especie_do_animal_agressor:canina,Espécie do animal agressor: Canina,NA,NA
+MRB.1.09,2,especie_do_animal_agressor:felina,Espécie do animal agressor: Felina,NA,NA
+MRB.1.09,3,especie_do_animal_agressor:nao_informado,Espécie do animal agressor: Não informado,NA,NA
+MRB.1.09,4,especie_do_animal_agressor:outra,Espécie do animal agressor: Outra,NA,NA
+MRB.1.09,5,especie_do_animal_agressor:primata_macaco,Espécie do animal agressor: Primata (macaco),NA,NA
+MRB.1.09,6,especie_do_animal_agressor:quiroptera_morcego,Espécie do animal agressor: Quiróptera (morcego),NA,NA
+MRB.1.09,7,especie_do_animal_agressor:raposa,Espécie do animal agressor: Raposa,NA,NA
+MRB.1.09,8,faixa_etaria,Faixa etária,NA,NA
+MRB.1.09,9,faixa_etaria:1_a_4_anos,Faixa etária: 1 a 4 anos,NA,NA
+MRB.1.09,10,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+MRB.1.09,11,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+MRB.1.09,12,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRB.1.09,13,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRB.1.09,14,faixa_etaria:5_a_9_anos,Faixa etária: 5 a 9 anos,NA,NA
+MRB.1.09,15,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.1.09,16,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+MRB.1.09,17,raca_cor:branca,Raça/cor: Branca,NA,NA
+MRB.1.09,18,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+MRB.1.09,19,raca_cor:nao_informado,Raça/cor: Não informado,NA,NA
+MRB.1.09,20,raca_cor:parda,Raça/cor: Parda,NA,NA
+MRB.1.09,21,raca_cor:preta,Raça/cor: Preta,NA,NA
+MRB.1.09,22,situacao_do_domicilio:nao_informado,Situação do domicílio: Não informado,NA,NA
+MRB.1.09,23,situacao_do_domicilio:rural,Situação do domicílio: Rural,NA,NA
+MRB.1.09,24,situacao_do_domicilio:urbana,Situação do domicílio: Urbana,NA,NA
+MRB.1.09,25,situacao_vacinal_do_animal_agressor:nao_informado,Situação vacinal do animal agressor: Não informado,NA,NA
+MRB.1.09,26,situacao_vacinal_do_animal_agressor:nao_vacinado,Situação vacinal do animal agressor: Não vacinado,NA,NA
+MRB.1.09,27,situacao_vacinal_do_animal_agressor:nao_vacinado_informado,Situação vacinal do animal agressor: Não vacinado informado,NA,NA
+MRB.1.09,28,total,Total,NA,NA
+MRB.1.10,1,faixa_etaria,Faixa etária,NA,NA
+MRB.1.10,2,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRB.1.10,3,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.1.10,4,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+MRB.1.10,5,tipo_do_caso:autoctone,Tipo do caso: Autóctone,NA,NA
+MRB.1.10,6,tipo_do_caso:importado,Tipo do caso: Importado,NA,NA
+MRB.1.10,7,tipo_do_caso:nao_informado,Tipo do caso: Não informado,NA,NA
+MRB.1.10,8,total,Total,NA,NA
+MRB.1.11,1,sexo:feminino,Sexo: Feminino,NA,NA
+MRB.1.11,2,sexo:masculino,Sexo: Masculino,NA,NA
+MRB.1.11,3,sexo:nao_informado,Sexo: Não informado,NA,NA
+MRB.1.11,4,total,Total,NA,NA
+MRB.1.13,1,etiologia:meningite_meningococica_com_meningococemia_mm_plusmcc,Etiologia: Meningite meningocócica - MM,NA,NA
+MRB.1.13,2,etiologia:meningite_meningococica_mm,Etiologia: Meningite meningocócica com meningococemia - MM+MCC,NA,NA
+MRB.1.13,3,etiologia:meningococemia_mcc,Etiologia: Meningococemia - MCC,NA,NA
+MRB.1.13,4,etiologia:nao_informado,Etiologia: Não informado,NA,NA
+MRB.1.13,5,faixa_etaria,Faixa etária,NA,NA
+MRB.1.13,6,faixa_etaria:1_a_4_anos,Faixa etária: 1 a 4 anos,NA,NA
+MRB.1.13,7,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+MRB.1.13,8,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+MRB.1.13,9,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRB.1.13,10,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRB.1.13,11,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRB.1.13,12,faixa_etaria:5_a_9_anos,Faixa etária: 5 a 9 anos,NA,NA
+MRB.1.13,13,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.1.13,14,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+MRB.1.13,15,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+MRB.1.13,16,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+MRB.1.13,17,faixa_etaria:menor_de_1_ano,Faixa etária: Menor de 1 ano,NA,NA
+MRB.1.13,18,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+MRB.1.13,19,raca_cor:branca,Raça/cor: Branca,NA,NA
+MRB.1.13,20,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+MRB.1.13,21,raca_cor:nao_informado,Raça/cor: Não informado,NA,NA
+MRB.1.13,22,raca_cor:parda,Raça/cor: Não Informado,NA,NA
+MRB.1.13,23,raca_cor:preta,Raça/cor: Parda,NA,NA
+MRB.1.13,24,sexo:feminino,Raça/cor: Preta,NA,NA
+MRB.1.13,25,sexo:masculino,Sexo: Feminino,NA,NA
+MRB.1.13,26,sexo:nao_informado,Sexo: Masculino,NA,NA
+MRB.1.13,27,total,Sexo: Não informado,NA,NA
+MRB.1.13,28,etiologia:meningite_meningococica_com_meningococemia_mm_plusmcc,Total,NA,NA
+MRB.1.14,1,etiologia:meningite_asseptica_virais_mv,Etiologia: Meningite asséptica (virais) - MV,NA,NA
+MRB.1.14,2,etiologia:meningite_nao_especificada_mne,Etiologia: Meningite não especificada - MNE,NA,NA
+MRB.1.14,3,etiologia:meningite_por_outras_bacterias_mb,Etiologia: Meningite por outras bactérias - MB,NA,NA
+MRB.1.14,4,etiologia:meningite_por_pneumococos_mp,Etiologia: Meningite por Pneumococos - MP,NA,NA
+MRB.1.14,5,etiologia:meningite_tuberculosa_mtbc,Etiologia: Meningite Tuberculosa - MTBC,NA,NA
+MRB.1.14,6,etiologia:meningites_por_hemofilos_mh,Etiologia: Meningites por Hemófilos - MH,NA,NA
+MRB.1.14,7,etiologia:meningites_por_outras_etiologias_moe,Etiologia: Meningites por outras etiologias - MOE,NA,NA
+MRB.1.14,8,etiologia:nao_informado,Etiologia: Não informado,NA,NA
+MRB.1.14,9,faixa_etaria,Faixa etária,NA,NA
+MRB.1.14,10,faixa_etaria:1_a_4_anos,Faixa etária: 1 a 4 anos,NA,NA
+MRB.1.14,11,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+MRB.1.14,12,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+MRB.1.14,13,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRB.1.14,14,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRB.1.14,15,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRB.1.14,16,faixa_etaria:5_a_9_anos,Faixa etária: 5 a 9 anos,NA,NA
+MRB.1.14,17,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.1.14,18,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+MRB.1.14,19,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+MRB.1.14,20,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+MRB.1.14,21,faixa_etaria:menor_de_1_ano,Faixa etária: Menor de 1 ano,NA,NA
+MRB.1.14,22,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+MRB.1.14,23,raca_cor:branca,Raça/cor: Branca,NA,NA
+MRB.1.14,24,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+MRB.1.14,25,raca_cor:nao_informado,Raça/cor: Não informado,NA,NA
+MRB.1.14,26,raca_cor:parda,Raça/cor: Não Informado,NA,NA
+MRB.1.14,27,raca_cor:preta,Raça/cor: Parda,NA,NA
+MRB.1.14,28,sexo:feminino,Raça/cor: Preta,NA,NA
+MRB.1.14,29,sexo:masculino,Sexo: Feminino,NA,NA
+MRB.1.14,30,sexo:nao_informado,Sexo: Masculino,NA,NA
+MRB.1.14,31,total,Sexo: Não informado,NA,NA
+MRB.1.14,32,etiologia:meningite_asseptica_virais_mv,Total,NA,NA
+MRB.1.15,1,ambiente_provavel_de_infeccao:domiciliar,Ambiente provável de infecção: Domiciliar,NA,NA
+MRB.1.15,2,ambiente_provavel_de_infeccao:lazer,Ambiente provável de infecção: Lazer,NA,NA
+MRB.1.15,3,ambiente_provavel_de_infeccao:nao_informado,Ambiente provável de infecção: Não informado,NA,NA
+MRB.1.15,4,ambiente_provavel_de_infeccao:outro,Ambiente provável de infecção: Outro,NA,NA
+MRB.1.15,5,ambiente_provavel_de_infeccao:trabalho,Ambiente provável de infecção: Trabalho,NA,NA
+MRB.1.15,6,area_provavel_de_infeccao:nao_informado,Área provável de infecção: Não informado,NA,NA
+MRB.1.15,7,area_provavel_de_infeccao:periurbana,Área provável de infecção: Periurbana,NA,NA
+MRB.1.15,8,area_provavel_de_infeccao:rural,Área provável de infecção: Rural,NA,NA
+MRB.1.15,9,area_provavel_de_infeccao:urbana,Área provável de infecção: Urbana,NA,NA
+MRB.1.15,10,faixa_etaria,Faixa etária,NA,NA
+MRB.1.15,11,faixa_etaria:1_a_4_anos,Faixa etária: 1 a 4 anos,NA,NA
+MRB.1.15,12,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+MRB.1.15,13,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+MRB.1.15,14,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRB.1.15,15,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRB.1.15,16,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRB.1.15,17,faixa_etaria:5_a_9_anos,Faixa etária: 5 a 9 anos,NA,NA
+MRB.1.15,18,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.1.15,19,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+MRB.1.15,20,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+MRB.1.15,21,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+MRB.1.15,22,faixa_etaria:menor_de_1_ano,Faixa etária: Menor de 1 ano,NA,NA
+MRB.1.15,23,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+MRB.1.15,24,raca_cor:branca,Raça/cor: Branca,NA,NA
+MRB.1.15,25,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+MRB.1.15,26,raca_cor:nao_informado,Raça/cor: Não informado,NA,NA
+MRB.1.15,27,raca_cor:parda,Raça/cor: Não Informado,NA,NA
+MRB.1.15,28,raca_cor:preta,Raça/cor: Parda,NA,NA
+MRB.1.15,29,sexo:feminino,Raça/cor: Preta,NA,NA
+MRB.1.15,30,sexo:masculino,Sexo: Feminino,NA,NA
+MRB.1.15,31,sexo:nao_informado,Sexo: Masculino,NA,NA
+MRB.1.15,32,situacao_do_domicilio:nao_informado,Sexo: Não informado,NA,NA
+MRB.1.15,33,situacao_do_domicilio:periurbana,Situação do domicílio: Não informado,NA,NA
+MRB.1.15,34,situacao_do_domicilio:rural,Situação do domicílio: Periurbana,NA,NA
+MRB.1.15,35,situacao_do_domicilio:urbana,Situação do domicílio: Rural,NA,NA
+MRB.1.15,36,total,Situação do domicílio: Urbana,NA,NA
+MRB.1.15,37,ambiente_provavel_de_infeccao:domiciliar,Total,NA,NA
+MRB.1.16,1,ambiente_provavel_de_infeccao:domiciliar,Ambiente provável de infecção: Domiciliar,NA,NA
+MRB.1.16,2,ambiente_provavel_de_infeccao:lazer,Ambiente provável de infecção: Lazer,NA,NA
+MRB.1.16,3,ambiente_provavel_de_infeccao:nao_informado,Ambiente provável de infecção: Não informado,NA,NA
+MRB.1.16,4,ambiente_provavel_de_infeccao:outro,Ambiente provável de infecção: Outro,NA,NA
+MRB.1.16,5,ambiente_provavel_de_infeccao:trabalho,Ambiente provável de infecção: Trabalho,NA,NA
+MRB.1.16,6,faixa_etaria,Faixa etária,NA,NA
+MRB.1.16,7,faixa_etaria:1_a_4_anos,Faixa etária: 1 a 4 anos,NA,NA
+MRB.1.16,8,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+MRB.1.16,9,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+MRB.1.16,10,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRB.1.16,11,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRB.1.16,12,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRB.1.16,13,faixa_etaria:5_a_9_anos,Faixa etária: 5 a 9 anos,NA,NA
+MRB.1.16,14,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.1.16,15,faixa_etaria:60_anos_ou_mais,Faixa etária: 60 anos ou mais,NA,NA
+MRB.1.16,16,faixa_etaria:menor_de_1_ano,Faixa etária: Menor de 1 ano,NA,NA
+MRB.1.16,17,sexo:feminino,Sexo: Feminino,NA,NA
+MRB.1.16,18,sexo:masculino,Sexo: Masculino,NA,NA
+MRB.1.16,19,sexo:nao_informado,Sexo: Não informado,NA,NA
+MRB.1.16,20,total,Total,NA,NA
+MRB.1.17,1,faixa_etaria,Faixa etária,NA,NA
+MRB.1.17,2,faixa_etaria:1_a_4_anos,Faixa etária: 1 a 4 anos,NA,NA
+MRB.1.17,3,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+MRB.1.17,4,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+MRB.1.17,5,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRB.1.17,6,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRB.1.17,7,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRB.1.17,8,faixa_etaria:5_a_9_anos,Faixa etária: 5 a 9 anos,NA,NA
+MRB.1.17,9,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.1.17,10,faixa_etaria:60_anos_ou_mais,Faixa etária: 60 anos ou mais,NA,NA
+MRB.1.17,11,faixa_etaria:menor_de_1_ano,Faixa etária: Menor de 1 ano,NA,NA
+MRB.1.17,12,sexo:feminino,Sexo: Feminino,NA,NA
+MRB.1.17,13,sexo:masculino,Sexo: Masculino,NA,NA
+MRB.1.17,14,sexo:nao_informado,Sexo: Não informado,NA,NA
+MRB.1.17,15,total,Total,NA,NA
+MRB.1.18,1,faixa_etaria,Faixa etária,NA,NA
+MRB.1.18,2,faixa_etaria:1_a_4_anos,Faixa etária: 1 a 4 anos,NA,NA
+MRB.1.18,3,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRB.1.18,4,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRB.1.18,5,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRB.1.18,6,faixa_etaria:5_a_9_anos,Faixa etária: 5 a 9 anos,NA,NA
+MRB.1.18,7,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.1.18,8,faixa_etaria:60_anos_ou_mais,Faixa etária: 60 anos ou mais,NA,NA
+MRB.1.18,9,faixa_etaria:menor_de_1_ano,Faixa etária: Menor de 1 ano,NA,NA
+MRB.1.18,10,sexo:feminino,Sexo: Feminino,NA,NA
+MRB.1.18,11,sexo:masculino,Sexo: Masculino,NA,NA
+MRB.1.18,12,sexo:nao_informado,Sexo: Não informado,NA,NA
+MRB.1.18,13,total,Total,NA,NA
+MRB.2.03,1,faixa_etaria,Faixa etária,NA,NA
+MRB.2.03,2,faixa_etaria:1_a_4_anos,Faixa etária: 1 a 4 anos,NA,NA
+MRB.2.03,3,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+MRB.2.03,4,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+MRB.2.03,5,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRB.2.03,6,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRB.2.03,7,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRB.2.03,8,faixa_etaria:5_a_9_anos,Faixa etária: 5 a 9 anos,NA,NA
+MRB.2.03,9,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.2.03,10,faixa_etaria:60_anos_ou_mais,Faixa etária: 60 anos ou mais,NA,NA
+MRB.2.03,11,faixa_etaria:menor_de_1_ano,Faixa etária: Menor de 1 ano,NA,NA
+MRB.2.03,12,sexo:feminino,Sexo: Feminino,NA,NA
+MRB.2.03,13,sexo:masculino,Sexo: Masculino,NA,NA
+MRB.2.03,14,sexo:nao_informado,Sexo: Não informado,NA,NA
+MRB.2.03,15,total,Total,NA,NA
+MRB.2.04,1,faixa_etaria,Faixa etária,NA,NA
+MRB.2.04,2,faixa_etaria:1_a_4_anos,Faixa etária: 1 a 4 anos,NA,NA
+MRB.2.04,3,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+MRB.2.04,4,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+MRB.2.04,5,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRB.2.04,6,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRB.2.04,7,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRB.2.04,8,faixa_etaria:5_a_9_anos,Faixa etária: 5 a 9 anos,NA,NA
+MRB.2.04,9,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.2.04,10,faixa_etaria:60_anos_ou_mais,Faixa etária: 60 anos ou mais,NA,NA
+MRB.2.04,11,faixa_etaria:menor_de_1_ano,Faixa etária: Menor de 1 ano,NA,NA
+MRB.2.04,12,sexo:feminino,Sexo: Feminino,NA,NA
+MRB.2.04,13,sexo:masculino,Sexo: Masculino,NA,NA
+MRB.2.04,14,sexo:nao_informado,Sexo: Não informado,NA,NA
+MRB.2.04,15,total,Total,NA,NA
+MRB.2.05,1,faixa_etaria,Faixa etária,NA,NA
+MRB.2.05,2,faixa_etaria:1_a_4_anos,Faixa etária: 1 a 4 anos,NA,NA
+MRB.2.05,3,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+MRB.2.05,4,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+MRB.2.05,5,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRB.2.05,6,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRB.2.05,7,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRB.2.05,8,faixa_etaria:5_a_9_anos,Faixa etária: 5 a 9 anos,NA,NA
+MRB.2.05,9,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRB.2.05,10,faixa_etaria:60_anos_ou_mais,Faixa etária: 60 anos ou mais,NA,NA
+MRB.2.05,11,faixa_etaria:menor_de_1_ano,Faixa etária: Menor de 1 ano,NA,NA
+MRB.2.05,12,sexo:feminino,Sexo: Feminino,NA,NA
+MRB.2.05,13,sexo:masculino,Sexo: Masculino,NA,NA
+MRB.2.05,14,sexo:nao_informado,Sexo: Não informado,NA,NA
+MRB.2.05,15,total,Total,NA,NA
+MRB.2.06,1,grau_de_incapacidade_fisica:grau_0,Grau de incapacidade física: Grau 0,NA,NA
+MRB.2.06,2,grau_de_incapacidade_fisica:grau_1,Grau de incapacidade física: Grau 1,NA,NA
+MRB.2.06,3,grau_de_incapacidade_fisica:grau_2,Grau de incapacidade física: Grau 2,NA,NA
+MRB.2.06,4,grau_de_incapacidade_fisica:nao_avaliado,Grau de incapacidade física: Não avaliado,NA,NA
+MRB.2.06,5,grau_de_incapacidade_fisica:nao_informado,Grau de incapacidade física: Não informado,NA,NA
+MRB.2.06,6,sexo:feminino,Sexo: Feminino,NA,NA
+MRB.2.06,7,sexo:masculino,Sexo: Masculino,NA,NA
+MRB.2.06,8,sexo:nao_informado,Sexo: Não informado,NA,NA
+MRB.2.06,9,total,Total,NA,NA
+MRB.2.07,1,grau_de_incapacidade_fisica:grau_0,Grau de incapacidade física: Grau 0,NA,NA
+MRB.2.07,2,grau_de_incapacidade_fisica:grau_1,Grau de incapacidade física: Grau 1,NA,NA
+MRB.2.07,3,grau_de_incapacidade_fisica:grau_2,Grau de incapacidade física: Grau 2,NA,NA
+MRB.2.07,4,grau_de_incapacidade_fisica:nao_avaliado,Grau de incapacidade física: Não avaliado,NA,NA
+MRB.2.07,5,grau_de_incapacidade_fisica:nao_informado,Grau de incapacidade física: Não informado,NA,NA
+MRB.2.07,6,sexo:feminino,Sexo: Feminino,NA,NA
+MRB.2.07,7,sexo:masculino,Sexo: Masculino,NA,NA
+MRB.2.07,8,sexo:nao_informado,Sexo: Não informado,NA,NA
+MRB.2.07,9,total,Total,NA,NA
+MRB.2.09,1,faixa_etaria,Faixa etária,NA,NA
+MRB.2.09,2,sexo,Sexo,NA,NA
+MRB.2.09,3,total,Total,NA,NA
+MRB.2.10,1,faixa_etaria,Faixa etária,NA,NA
+MRB.2.10,2,faixa_etaria:10_a_14_anos,Faixa etária: 10 a 14 anos,NA,NA
+MRB.2.10,3,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+MRB.2.10,4,faixa_etaria:20_a_24_anos,Faixa etária: 20 a 24 anos,NA,NA
+MRB.2.10,5,faixa_etaria:25_a_29_anos,Faixa etária: 25 a 29 anos,NA,NA
+MRB.2.10,6,faixa_etaria:30_a_34_anos,Faixa etária: 30 a 34 anos,NA,NA
+MRB.2.10,7,faixa_etaria:35_a_39_anos,Faixa etária: 35 a 39 anos,NA,NA
+MRB.2.10,8,faixa_etaria:40_a_44_anos,Faixa etária: 40 a 44 anos,NA,NA
+MRB.2.10,9,faixa_etaria:45_a_49_anos,Faixa etária: 45 a 49 anos,NA,NA
+MRB.2.10,10,total,Total,NA,NA
+MRB.2.13,1,faixa_etaria,Faixa etária,NA,NA
+MRB.2.13,2,sexo,Sexo,NA,NA
+MRB.2.13,3,total,Total,NA,NA
+MRB.2.14,1,faixa_etaria,Faixa etária,NA,NA
+MRB.2.14,2,sexo,Sexo,NA,NA
+MRB.2.14,3,total,Total,NA,NA
+MRB.2.15,1,faixa_etaria,Faixa etária,NA,NA
+MRB.2.15,2,sexo,Sexo,NA,NA
+MRB.2.15,3,total,Total,NA,NA
+MRB.4.01,1,numero_de_internacoes_causas_externas,Número de internaçoes causas externas,NA,NA
+MRB.4.01,2,numero_intern_acid_transporte_terrestre,Número intern.acid.transporte terrestre,NA,NA
+MRB.4.01,3,numero_intern_agressoes_interv_legais,Número intern.agressoes/interv.legais,NA,NA
+MRB.4.01,4,numero_intern_demais_acidentes,Número intern.demais acidentes,NA,NA
+MRB.4.01,5,numero_intern_demais_causas_externas,Número intern.demais causas externas,NA,NA
+MRB.4.01,6,numero_intern_eventos_intencao_indeterm,Número intern.eventos intençao indeterm.,NA,NA
+MRB.4.01,7,numero_intern_intoxicacoes,Número intern.intoxicaçoes,NA,NA
+MRB.4.01,8,numero_intern_lesoes_autoprovoc_voluntar,Número intern.lesoes autoprovoc.voluntar.,NA,NA
+MRB.4.01,9,numero_intern_quedas,Número intern.quedas,NA,NA
+MRB.4.02,1,numero_internacoes_csap,Número internaçoes CSAP,NA,NA
+MRB.4.02,2,numero_internacoes_csap_grupo_1,Número internaçoes CSAP - Grupo 1,NA,NA
+MRB.4.02,3,numero_internacoes_csap_grupo_10,Número internaçoes CSAP - Grupo 10,NA,NA
+MRB.4.02,4,numero_internacoes_csap_grupo_11,Número internaçoes CSAP - Grupo 11,NA,NA
+MRB.4.02,5,numero_internacoes_csap_grupo_12,Número internaçoes CSAP - Grupo 12,NA,NA
+MRB.4.02,6,numero_internacoes_csap_grupo_13,Número internaçoes CSAP - Grupo 13,NA,NA
+MRB.4.02,7,numero_internacoes_csap_grupo_14,Número internaçoes CSAP - Grupo 14,NA,NA
+MRB.4.02,8,numero_internacoes_csap_grupo_15,Número internaçoes CSAP - Grupo 15,NA,NA
+MRB.4.02,9,numero_internacoes_csap_grupo_16,Número internaçoes CSAP - Grupo 16,NA,NA
+MRB.4.02,10,numero_internacoes_csap_grupo_17,Número internaçoes CSAP - Grupo 17,NA,NA
+MRB.4.02,11,numero_internacoes_csap_grupo_18,Número internaçoes CSAP - Grupo 18,NA,NA
+MRB.4.02,12,numero_internacoes_csap_grupo_19,Número internaçoes CSAP - Grupo 19,NA,NA
+MRB.4.02,13,numero_internacoes_csap_grupo_2,Número internaçoes CSAP - Grupo 2,NA,NA
+MRB.4.02,14,numero_internacoes_csap_grupo_3,Número internaçoes CSAP - Grupo 3,NA,NA
+MRB.4.02,15,numero_internacoes_csap_grupo_4,Número internaçoes CSAP - Grupo 4,NA,NA
+MRB.4.02,16,numero_internacoes_csap_grupo_5,Número internaçoes CSAP - Grupo 5,NA,NA
+MRB.4.02,17,numero_internacoes_csap_grupo_6,Número internaçoes CSAP - Grupo 6,NA,NA
+MRB.4.02,18,numero_internacoes_csap_grupo_7,Número internaçoes CSAP - Grupo 7,NA,NA
+MRB.4.02,19,numero_internacoes_csap_grupo_8,Número internaçoes CSAP - Grupo 8,NA,NA
+MRB.4.02,20,numero_internacoes_csap_grupo_9,Número internaçoes CSAP - Grupo 9,NA,NA
+MRT.1.01,1,obitos_infantis_estimados,Obitos infantis estimados,NA,NA
+MRT.1.02,1,obitos_neonatais_precoces_estimados,Obitos neonatais precoces estimados,NA,NA
+MRT.1.03,1,obitos_neonatais_tardios_estimados,Obitos neonatais tardios estimados,NA,NA
+MRT.1.04,1,obitos_pos_neonatais_estimados,Obitos pós-neonatais estimados,NA,NA
+MRT.1.05,1,obitos_em_menores_de_5_anos_estimados,Obitos em menores de 5 anos estimados,NA,NA
+MRT.2.01,1,fator_de_correcao_utilizado,Fator de correçao utilizado,NA,NA
+MRT.2.01,2,obitos_maternos,Obitos maternos,NA,NA
+MRT.2.01,3,obitos_maternos_corrigido,Obitos maternos corrigido,NA,NA
+MRT.2.02	,1,anemia_e_outras_doencas_do_sangue,Anemia e outras doenças do sangue,NA,NA
+MRT.2.02	,2,causas_obstetricas_diretas,Causas obstétricas diretas,NA,NA
+MRT.2.02	,3,causas_obstetricas_indiretas,Causas obstétricas indiretas,NA,NA
+MRT.2.02	,4,causas_obstetricas_inespecificas,Causas obstétricas inespecíficas,NA,NA
+MRT.2.02	,5,diabetes_e_outras_doencas_endocrinas_complicadas_na_gravidez,Diabetes e outras doenças endócrinas complicadas na gravidez,NA,NA
+MRT.2.02	,6,doencas_do_aparelho_circulatorio,Doenças do aparelho circulatório,NA,NA
+MRT.2.02	,7,doencas_do_aparelho_digestivo,Doenças do aparelho digestivo,NA,NA
+MRT.2.02	,8,doencas_do_aparelho_respiratorio,Doenças do aparelho respiratório,NA,NA
+MRT.2.02	,9,doencas_do_sistema_nervoso,Doenças do sistema nervoso,NA,NA
+MRT.2.02	,10,doencas_hipertensivas_pre_existentes,Doenças hipertensivas pré-existentes,NA,NA
+MRT.2.02	,11,doencas_infecciosas_e_parasitarias,Doenças infecciosas e parasitárias,NA,NA
+MRT.2.02	,12,gravidez_que_termina_em_aborto,Gravidez que termina em aborto,NA,NA
+MRT.2.02	,13,hemorragia,Hemorragia,NA,NA
+MRT.2.02	,14,hipertensao,Hipertensao,NA,NA
+MRT.2.02	,15,infeccao_puerperal,Infecçao puerperal,NA,NA
+MRT.2.02	,16,outras_causas_obstetricas_diretas,Outras causas obstétricas diretas,NA,NA
+MRT.2.02	,17,outras_complicacoes_do_trabalho_de_parto_e_do_parto,Outras complicaçoes do trabalho de parto e do parto,NA,NA
+MRT.2.02	,18,outras_complicacoes_relacionadas_predominantemente_com_o_puerperio,Outras complicaçoes relacionadas predominantemente com o puerpério,NA,NA
+MRT.2.02	,19,outras_doencas_especificas_complicadas_na_gravidez_parto_e_puerperio,"Outras doenças específicas complicadas na gravidez, parto e puerpério",NA,NA
+MRT.2.02	,20,outros_transtornos_maternos_relacionados_predominantemente_com_a_gravid,Outros transtornos maternos relacionados predominantemente com a gravid,NA,NA
+MRT.2.02	,21,tetano_obstetrico,Tétano obstétrico,NA,NA
+MRT.2.02	,22,transtornos_mentais_do_puerperio,Transtornos mentais do puerpério,NA,NA
+MRT.3.01,1,numerador_1_obitos_p_doencas_ap_circulatorio,Numerador 1 - Obitos p/doenças ap.circulatório,NA,NA
+MRT.3.01,2,numerador_2_obitos_p_neoplasias,Numerador 2 - Obitos p/neoplasias,NA,NA
+MRT.3.01,3,numerador_3_obitos_p_doencas_ap_respiratorio,Numerador 3 - Obitos p/doenças ap.respiratório,NA,NA
+MRT.3.01,4,numerador_4_obitos_p_causas_externas,Numerador 4 - Obitos p/causas externas,NA,NA
+MRT.3.01,5,numerador_5_obitos_p_doencas_endocr_nutric_metab,Numerador 5 - Obitos p/doenças endocr/nutric/metab,NA,NA
+MRT.3.01,6,numerador_6_obitos_p_doencas_ap_digestivo,Numerador 6 - Obitos p/doenças ap.digestivo,NA,NA
+MRT.3.01,7,numerador_7_obitos_p_algumas_doenc_infec_parasit,Numerador 7 - Obitos p/algumas doenç.infec/parasit,NA,NA
+MRT.3.01,8,numerador_8_obitos_p_demais_causas_definidas,Numerador 8 - Obitos p/demais causas definidas,NA,NA
+MRT.3.02	,1,numerador_causas_mal_definidas,Numerador Causas mal definidas,NA,NA
+MRT.4.01,1,obitos_por_agressao,Obitos por agressao,NA,NA
+MRT.4.01,2,obitos_por_arma_branca_perfuro_cort_cont,Obitos por arma branca/pérfuro/cort/cont,NA,NA
+MRT.4.01,3,obitos_por_arma_de_fogo,Obitos por arma de fogo,NA,NA
+MRT.4.01,4,obitos_por_demais_meios_especificados,Obitos por demais meios especificados,NA,NA
+MRT.4.01,5,obitos_por_estrangulamento,Obitos por estrangulamento,NA,NA
+MRT.4.01,6,obitos_por_forca_corporal,Obitos por força corporal,NA,NA
+MRT.4.01,7,obitos_por_meios_nao_especificados,Obitos por meios nao especificados,NA,NA
+MRT.4.02,1,obitos_por_arma_de_fogo,Obitos por arma de fogo,NA,NA
+MRT.4.02,2,obitos_por_enforcamento,Obitos por enforcamento,NA,NA
+MRT.4.02,3,obitos_por_envenenamento_intoxicacao,Obitos por envenenamento/intoxicaçao,NA,NA
+MRT.4.02,4,obitos_por_lesao_autoprovocada,Obitos por lesao autoprovocada,NA,NA
+MRT.4.02,5,obitos_por_meios_nao_especificados,Obitos por meios nao especificados,NA,NA
+MRT.4.02,6,obitos_por_outros_meios_especificados,Obitos por outros meios especificados,NA,NA
+MRT.4.02,7,obitos_por_precipit_local_elevado,Obitos por precipit.local elevado,NA,NA
+MRT.4.03,1,obitos_ciclistas,Obitos - ciclistas,NA,NA
+MRT.4.03,2,obitos_motociclistas_ocup_triciclos,Obitos - motociclistas/ocup.triciclos,NA,NA
+MRT.4.03,3,obitos_ocup_automoveis_vtp_onibus,Obitos - ocup automóveis/VTP/ônibus,NA,NA
+MRT.4.03,4,obitos_ocupantes_de_demais_veiculos,Obitos - ocupantes de demais veículos,NA,NA
+MRT.4.03,5,obitos_ocupantes_veiculos_nao_espec,Obitos - ocupantes veículos nao espec,NA,NA
+MRT.4.03,6,obitos_pedestres,Obitos - pedestres,NA,NA
+MRT.4.03,7,obitos_por_lesao_de_transito,Obitos por lesao de trânsito,NA,NA
+MRT.4.04,1,obitos_afogamento_submersao_acidentais,Obitos afogamento/submersao acidentais,NA,NA
+MRT.4.04,2,obitos_armas_de_fogo,Obitos armas de fogo,NA,NA
+MRT.4.04,3,obitos_contato_animais_plantas_venen,Obitos contato animais/plantas venen.,NA,NA
+MRT.4.04,4,obitos_demais_causas_acidentais,Obitos demais causas acidentais,NA,NA
+MRT.4.04,5,obitos_envenen_acid_expos_subst_nociv,Obitos envenen.acid/expos.subst.nociv,NA,NA
+MRT.4.04,6,obitos_por_causas_acidentais,Obitos por causas acidentais,NA,NA
+MRT.4.04,7,obitos_quedas,Obitos quedas,NA,NA
+MRT.4.04,8,obitos_queimaduras,Obitos queimaduras,NA,NA
+MRT.4.04,9,obitos_riscos_acidentais_a_respiracao,Obitos riscos acidentais à respiraçao,NA,NA
+MRT.5.01,1,faixa_etaria,Faixa etária,NA,NA
+MRT.5.01,2,grupo_causa,Grupo causa,NA,NA
+MRT.5.01,3,sexo,Sexo,NA,NA
+MRT.5.01,4,total,Total,NA,NA
+MRT.5.02,1,faixa_etaria:0_a_9_anos,Faixa etária: 0 a 9 anos,NA,NA
+MRT.5.02,2,faixa_etaria:10_a_19_anos,Faixa etária: 10 a 19 anos,NA,NA
+MRT.5.02,3,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRT.5.02,4,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRT.5.02,5,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRT.5.02,6,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRT.5.02,7,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+MRT.5.02,8,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+MRT.5.02,9,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+MRT.5.02,10,grupos_de_causas:neoplasias_colo_do_utero,Grupos de causas: Neoplasias colo do útero,NA,NA
+MRT.5.02,11,grupos_de_causas:neoplasias_demais_localidades,Grupos de causas: Neoplasias demais localidades,NA,NA
+MRT.5.02,12,grupos_de_causas:neoplasias_mama_feminina,Grupos de causas: Neoplasias mama feminina,NA,NA
+MRT.5.02,13,grupos_de_causas:neoplasias_org_digestivos,Grupos de causas: Neoplasias org. digestivos,NA,NA
+MRT.5.02,14,grupos_de_causas:neoplasias_prostata,Grupos de causas: Neoplasias próstata,NA,NA
+MRT.5.02,15,grupos_de_causas:neoplasias_pulmao_traqueia_bronquio,Grupos de causas: Neoplasias pulmão/traqueia/brônquio,NA,NA
+MRT.5.02,16,sexo:feminino,Sexo: Feminino,NA,NA
+MRT.5.02,17,sexo:masculino,Sexo: Masculino,NA,NA
+MRT.5.02,18,total,Total,NA,NA
+MRT.5.03,1,faixa_etaria,Faixa etária,NA,NA
+MRT.5.03,2,sexo,Sexo,NA,NA
+MRT.5.03,3,total,Total,NA,NA
+MRT.5.04,1,faixa_etaria:0_a_9_anos,Faixa etária: 0 a 9 anos,NA,NA
+MRT.5.04,2,faixa_etaria:10_a_19_anos,Faixa etária: 10 a 19 anos,NA,NA
+MRT.5.04,3,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRT.5.04,4,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRT.5.04,5,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRT.5.04,6,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRT.5.04,7,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+MRT.5.04,8,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+MRT.5.04,9,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+MRT.5.04,10,grupos_de_causas:demais_causas,Grupos de causas: Demais causas,NA,NA
+MRT.5.04,11,grupos_de_causas:doencas_cerebrovasculares,Grupos de causas: Doenças cerebrovasculares,NA,NA
+MRT.5.04,12,grupos_de_causas:doencas_isquemicas_do_coracao,Grupos de causas: Doenças isquêmicas do coração,NA,NA
+MRT.5.04,13,sexo:feminino,Sexo: Feminino,NA,NA
+MRT.5.04,14,sexo:masculino,Sexo: Masculino,NA,NA
+MRT.5.04,15,total,Total,NA,NA
+MRT.5.05,1,faixa_etaria:0_a_9_anos,Faixa etária: 0 a 9 anos,NA,NA
+MRT.5.05,2,faixa_etaria:10_a_19_anos,Faixa etária: 10 a 19 anos,NA,NA
+MRT.5.05,3,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+MRT.5.05,4,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+MRT.5.05,5,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+MRT.5.05,6,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+MRT.5.05,7,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+MRT.5.05,8,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+MRT.5.05,9,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+MRT.5.05,10,grupos_de_causas:afeccoes_necroticas_e_supurativas_das_vias_aereas_inferiores,Grupos de causas: Afecções necróticas e supurativas das vias aéreas inferiores,NA,NA
+MRT.5.05,11,grupos_de_causas:doencas_cronicas_das_vias_aereas_inferiores,Grupos de causas: Doenças crônicas das vias aéreas inferiores,NA,NA
+MRT.5.05,12,grupos_de_causas:doencas_das_vias_aereas_superiores,Grupos de causas: Doenças das vias aéreas superiores,NA,NA
+MRT.5.05,13,grupos_de_causas:doencas_pulmonares_devido_a_agentes_externos,Grupos de causas: Doenças pulmonares devido a agentes externos,NA,NA
+MRT.5.05,14,grupos_de_causas:outras_doencas_da_pleura,Grupos de causas: Outras doenças da pleura,NA,NA
+MRT.5.05,15,grupos_de_causas:outras_doencas_do_aparelho_respiratorio,Grupos de causas: Outras doenças do aparelho respiratório,NA,NA
+MRT.5.05,16,grupos_de_causas:outras_doencas_respiratorias_que_afetam_principalmente_o_intersticio,Grupos de causas: Outras doenças respiratórias que afetam principalmente o interstício,NA,NA
+MRT.5.05,17,sexo:feminino,Sexo: Feminino,NA,NA
+MRT.5.05,18,sexo:masculino,Sexo: Masculino,NA,NA
+MRT.5.05,19,total,Total,NA,NA
+MRT.5.06,1,obitos_por_dcnt,Obitos por DCNT,NA,NA
+MRT.5.06,2,obitos_por_diabete_mellitus,Obitos por diabete mellitus,NA,NA
+MRT.5.06,3,obitos_por_doenc_respirat_cronic,Obitos por doenç.respirat.crônic,NA,NA
+MRT.5.06,4,obitos_por_doencas_cerebrovasc,Obitos por doenças cerebrovasc.,NA,NA
+MRT.5.06,5,obitos_por_neoplasias_malignas,Obitos por neoplasias malignas,NA,NA
+MRT.6.01,1,obitos_por_doencas_transmissiveis,Obitos por doenças transmissíveis,NA,NA
+MRT.6.01,2,obitos_por_grupo_1,Obitos por grupo 1,NA,NA
+MRT.6.01,3,obitos_por_grupo_10,Obitos por grupo 10,NA,NA
+MRT.6.01,4,obitos_por_grupo_11,Obitos por grupo 11,NA,NA
+MRT.6.01,5,obitos_por_grupo_12,Obitos por grupo 12,NA,NA
+MRT.6.01,6,obitos_por_grupo_13,Obitos por grupo 13,NA,NA
+MRT.6.01,7,obitos_por_grupo_14,Obitos por grupo 14,NA,NA
+MRT.6.01,8,obitos_por_grupo_2,Obitos por grupo 2,NA,NA
+MRT.6.01,9,obitos_por_grupo_3,Obitos por grupo 3,NA,NA
+MRT.6.01,10,obitos_por_grupo_4,Obitos por grupo 4,NA,NA
+MRT.6.01,11,obitos_por_grupo_5,Obitos por grupo 5,NA,NA
+MRT.6.01,12,obitos_por_grupo_6,Obitos por grupo 6,NA,NA
+MRT.6.01,13,obitos_por_grupo_7,Obitos por grupo 7,NA,NA
+MRT.6.01,14,obitos_por_grupo_8,Obitos por grupo 8,NA,NA
+MRT.6.01,15,obitos_por_grupo_9,Obitos por grupo 9,NA,NA
+REC.1.01,1,agentes_de_saude,Agentes de Saúde,NA,NA
+REC.1.01,2,assist_sociais,Assist.Sociais,NA,NA
+REC.1.01,3,biologos,Biólogos,NA,NA
+REC.1.01,4,biomedicos,Biomédicos,NA,NA
+REC.1.01,5,cirurg_dentistas,Cirurg.dentistas,NA,NA
+REC.1.01,6,cuidadores,Cuidadores,NA,NA
+REC.1.01,7,enfermeiros,Enfermeiros,NA,NA
+REC.1.01,8,farmaceuticos,Farmacêuticos,NA,NA
+REC.1.01,9,fisioterapeutas,Fisioterapeutas,NA,NA
+REC.1.01,10,fonoaudiologos,Fonoaudiólogos,NA,NA
+REC.1.01,11,med_diagn_terap,Méd.diagn./terap,NA,NA
+REC.1.01,12,medicos_ant_clas,Médicos ant.clas,NA,NA
+REC.1.01,13,medicos_cirurg,Médicos Cirurg.,NA,NA
+REC.1.01,14,medicos_clinicos,Médicos clínicos,NA,NA
+REC.1.01,15,nutricionistas,Nutricionistas,NA,NA
+REC.1.01,16,prof_educ_fisica,Prof.Educ.Física,NA,NA
+REC.1.01,17,psicolog_psican,Psicólog/Psican.,NA,NA
+REC.1.01,18,tec_terap_compl,Téc.Terap.Compl.,NA,NA
+REC.1.01,19,tecn_alimentos,Técn.Alimentos,NA,NA
+REC.1.01,20,tecn_aux_enferm,Técn.Aux.Enferm.,NA,NA
+REC.1.01,21,tecn_diagn_terap,Técn.Diagn.Terap,NA,NA
+REC.1.01,22,tecn_farmacia,Técn.Farmácia,NA,NA
+REC.1.01,23,tecn_imob_ortop,Técn.Imob.Ortop.,NA,NA
+REC.1.01,24,tecn_labor_banco,Técn.Labor/banco,NA,NA
+REC.1.01,25,tecn_odontologia,Técn.Odontologia,NA,NA
+REC.1.01,26,tecn_optic_optom,Técn.Óptic/optom,NA,NA
+REC.1.01,27,tecn_prot_ortop,Técn.Prót.Ortop.,NA,NA
+REC.1.01,28,tecn_seg_trabalh,Técn.Seg.Trabalh,NA,NA
+REC.1.01,29,terap_ocupac,Terap.Ocupac.,NA,NA
+REC.1.01,30,trab_prom_saude,Trab.Prom.Saude,NA,NA
+REC.1.01,31,veterin_zootecn,Veterin./Zootecn,NA,NA
+REC.2.01,1,n_leitos_n_sus_priv_uci_adulto,Nº leitos ñ SUS priv - UCI adulto,NA,NA
+REC.2.01,2,n_leitos_n_sus_priv_uci_neonatal,Nº leitos ñ SUS priv - UCI neonatal,NA,NA
+REC.2.01,3,n_leitos_n_sus_priv_uci_pediatrica,Nº leitos ñ SUS priv - UCI pediátrica,NA,NA
+REC.2.01,4,n_leitos_n_sus_priv_uti_adulto,Nº leitos ñ SUS priv - UTI adulto,NA,NA
+REC.2.01,5,n_leitos_n_sus_priv_uti_coronariana,Nº leitos ñ SUS priv - UTI coronariana,NA,NA
+REC.2.01,6,n_leitos_n_sus_priv_uti_neonatal,Nº leitos ñ SUS priv - UTI neonatal,NA,NA
+REC.2.01,7,n_leitos_n_sus_priv_uti_pediatrica,Nº leitos ñ SUS priv - UTI pediátrica,NA,NA
+REC.2.01,8,n_leitos_n_sus_priv_uti_queimados,Nº leitos ñ SUS priv - UTI queimados,NA,NA
+REC.2.01,9,n_leitos_n_sus_privados,Nº leitos ñ SUS privados,NA,NA
+REC.2.01,10,n_leitos_n_sus_publ_uci_adulto,Nº leitos ñ SUS públ - UCI adulto,NA,NA
+REC.2.01,11,n_leitos_n_sus_publ_uci_neonatal,Nº leitos ñ SUS públ - UCI neonatal,NA,NA
+REC.2.01,12,n_leitos_n_sus_publ_uci_pediatrica,Nº leitos ñ SUS públ - UCI pediátrica,NA,NA
+REC.2.01,13,n_leitos_n_sus_publ_uti_adulto,Nº leitos ñ SUS públ - UTI adulto,NA,NA
+REC.2.01,14,n_leitos_n_sus_publ_uti_coronariana,Nº leitos ñ SUS públ - UTI coronariana,NA,NA
+REC.2.01,15,n_leitos_n_sus_publ_uti_neonatal,Nº leitos ñ SUS públ - UTI neonatal,NA,NA
+REC.2.01,16,n_leitos_n_sus_publ_uti_pediatrica,Nº leitos ñ SUS públ - UTI pediátrica,NA,NA
+REC.2.01,17,n_leitos_n_sus_publ_uti_queimados,Nº leitos ñ SUS públ - UTI queimados,NA,NA
+REC.2.01,18,n_leitos_n_sus_publicos,Nº leitos ñ SUS públicos,NA,NA
+REC.2.01,19,n_leitos_nao_sus,Nº leitos nao SUS,NA,NA
+REC.2.01,20,n_leitos_nao_sus_uci_adulto,Nº leitos nao SUS - UCI adulto,NA,NA
+REC.2.01,21,n_leitos_nao_sus_uci_neonatal,Nº leitos nao SUS - UCI neonatal,NA,NA
+REC.2.01,22,n_leitos_nao_sus_uci_pediatrica,Nº leitos nao SUS - UCI pediátrica,NA,NA
+REC.2.01,23,n_leitos_nao_sus_uti_adulto,Nº leitos nao SUS - UTI adulto,NA,NA
+REC.2.01,24,n_leitos_nao_sus_uti_coronariana,Nº leitos nao SUS - UTI coronariana,NA,NA
+REC.2.01,25,n_leitos_nao_sus_uti_neonatal,Nº leitos nao SUS - UTI neonatal,NA,NA
+REC.2.01,26,n_leitos_nao_sus_uti_pediatrica,Nº leitos nao SUS - UTI pediátrica,NA,NA
+REC.2.01,27,n_leitos_nao_sus_uti_queimados,Nº leitos nao SUS - UTI queimados,NA,NA
+REC.2.01,28,n_leitos_sus,Nº leitos SUS,NA,NA
+REC.2.01,29,n_leitos_sus_priv_uci_adulto,Nº leitos SUS priv - UCI adulto,NA,NA
+REC.2.01,30,n_leitos_sus_priv_uci_neonatal,Nº leitos SUS priv - UCI neonatal,NA,NA
+REC.2.01,31,n_leitos_sus_priv_uci_pediatrica,Nº leitos SUS priv - UCI pediátrica,NA,NA
+REC.2.01,32,n_leitos_sus_priv_uti_adulto,Nº leitos SUS priv - UTI adulto,NA,NA
+REC.2.01,33,n_leitos_sus_priv_uti_coronariana,Nº leitos SUS priv - UTI coronariana,NA,NA
+REC.2.01,34,n_leitos_sus_priv_uti_neonatal,Nº leitos SUS priv - UTI neonatal,NA,NA
+REC.2.01,35,n_leitos_sus_priv_uti_pediatrica,Nº leitos SUS priv - UTI pediátrica,NA,NA
+REC.2.01,36,n_leitos_sus_priv_uti_queimados,Nº leitos SUS priv - UTI queimados,NA,NA
+REC.2.01,37,n_leitos_sus_privados,Nº leitos SUS privados,NA,NA
+REC.2.01,38,n_leitos_sus_publ_uci_adulto,Nº leitos SUS públ - UCI adulto,NA,NA
+REC.2.01,39,n_leitos_sus_publ_uci_neonatal,Nº leitos SUS públ - UCI neonatal,NA,NA
+REC.2.01,40,n_leitos_sus_publ_uci_pediatrica,Nº leitos SUS públ - UCI pediátrica,NA,NA
+REC.2.01,41,n_leitos_sus_publ_uti_adulto,Nº leitos SUS públ - UTI adulto,NA,NA
+REC.2.01,42,n_leitos_sus_publ_uti_coronariana,Nº leitos SUS públ - UTI coronariana,NA,NA
+REC.2.01,43,n_leitos_sus_publ_uti_neonatal,Nº leitos SUS públ - UTI neonatal,NA,NA
+REC.2.01,44,n_leitos_sus_publ_uti_pediatrica,Nº leitos SUS públ - UTI pediátrica,NA,NA
+REC.2.01,45,n_leitos_sus_publ_uti_queimados,Nº leitos SUS públ - UTI queimados,NA,NA
+REC.2.01,46,n_leitos_sus_publicos,Nº leitos SUS públicos,NA,NA
+REC.2.01,47,n_leitos_sus_uci_adulto,Nº leitos SUS - UCI adulto,NA,NA
+REC.2.01,48,n_leitos_sus_uci_neonatal,Nº leitos SUS - UCI neonatal,NA,NA
+REC.2.01,49,n_leitos_sus_uci_pediatrica,Nº leitos SUS - UCI pediátrica,NA,NA
+REC.2.01,50,n_leitos_sus_uti_adulto,Nº leitos SUS - UTI adulto,NA,NA
+REC.2.01,51,n_leitos_sus_uti_coronariana,Nº leitos SUS - UTI coronariana,NA,NA
+REC.2.01,52,n_leitos_sus_uti_neonatal,Nº leitos SUS - UTI neonatal,NA,NA
+REC.2.01,53,n_leitos_sus_uti_pediatrica,Nº leitos SUS - UTI pediátrica,NA,NA
+REC.2.01,54,n_leitos_sus_uti_queimados,Nº leitos SUS - UTI queimados,NA,NA
+REC.2.01,55,n_total_leitos,Nº total leitos,NA,NA
+REC.2.01,56,n_total_leitos_priv_uci_adulto,Nº total leitos priv - UCI adulto,NA,NA
+REC.2.01,57,n_total_leitos_priv_uci_neonatal,Nº total leitos priv - UCI neonatal,NA,NA
+REC.2.01,58,n_total_leitos_priv_uci_pediatrica,Nº total leitos priv - UCI pediátrica,NA,NA
+REC.2.01,59,n_total_leitos_priv_uti_adulto,Nº total leitos priv - UTI adulto,NA,NA
+REC.2.01,60,n_total_leitos_priv_uti_coronariana,Nº total leitos priv - UTI coronariana,NA,NA
+REC.2.01,61,n_total_leitos_priv_uti_neonatal,Nº total leitos priv - UTI neonatal,NA,NA
+REC.2.01,62,n_total_leitos_priv_uti_pediatrica,Nº total leitos priv - UTI pediátrica,NA,NA
+REC.2.01,63,n_total_leitos_priv_uti_queimados,Nº total leitos priv - UTI queimados,NA,NA
+REC.2.01,64,n_total_leitos_privados,Nº total leitos privados,NA,NA
+REC.2.01,65,n_total_leitos_publ_uci_adulto,Nº total leitos públ - UCI adulto,NA,NA
+REC.2.01,66,n_total_leitos_publ_uci_neonatal,Nº total leitos públ - UCI neonatal,NA,NA
+REC.2.01,67,n_total_leitos_publ_uci_pediatrica,Nº total leitos públ - UCI pediátrica,NA,NA
+REC.2.01,68,n_total_leitos_publ_uti_adulto,Nº total leitos públ - UTI adulto,NA,NA
+REC.2.01,69,n_total_leitos_publ_uti_coronariana,Nº total leitos públ - UTI coronariana,NA,NA
+REC.2.01,70,n_total_leitos_publ_uti_neonatal,Nº total leitos públ - UTI neonatal,NA,NA
+REC.2.01,71,n_total_leitos_publ_uti_pediatrica,Nº total leitos públ - UTI pediátrica,NA,NA
+REC.2.01,72,n_total_leitos_publ_uti_queimados,Nº total leitos públ - UTI queimados,NA,NA
+REC.2.01,73,n_total_leitos_publicos,Nº total leitos públicos,NA,NA
+REC.2.01,74,n_total_leitos_uci_adulto,Nº total leitos - UCI adulto,NA,NA
+REC.2.01,75,n_total_leitos_uci_neonatal,Nº total leitos - UCI neonatal,NA,NA
+REC.2.01,76,n_total_leitos_uci_pediatrica,Nº total leitos - UCI pediátrica,NA,NA
+REC.2.01,77,n_total_leitos_uti_adulto,Nº total leitos - UTI adulto,NA,NA
+REC.2.01,78,n_total_leitos_uti_coronariana,Nº total leitos - UTI coronariana,NA,NA
+REC.2.01,79,n_total_leitos_uti_neonatal,Nº total leitos - UTI neonatal,NA,NA
+REC.2.01,80,n_total_leitos_uti_pediatrica,Nº total leitos - UTI pediátrica,NA,NA
+REC.2.01,81,n_total_leitos_uti_queimados,Nº total leitos - UTI queimados,NA,NA
+REC.2.03,1,n_gama_camara,Nº Gama câmara,NA,NA
+REC.2.03,2,n_gama_camara_privados,Nº Gama câmara - privados,NA,NA
+REC.2.03,3,n_gama_camara_publicos,Nº Gama câmara - públicos,NA,NA
+REC.2.03,4,n_mamografos,Nº Mamógrafos,NA,NA
+REC.2.03,5,n_mamografos_privados,Nº Mamógrafos - privados,NA,NA
+REC.2.03,6,n_mamografos_publicos,Nº Mamógrafos - públicos,NA,NA
+REC.2.03,7,n_pet_ct,Nº PET-CT,NA,NA
+REC.2.03,8,n_pet_ct_privados,Nº PET-CT - privados,NA,NA
+REC.2.03,9,n_pet_ct_publicos,Nº PET-CT - públicos,NA,NA
+REC.2.03,10,n_raio_x_com_fluoroscopia,Nº Raio X com fluoroscopia,NA,NA
+REC.2.03,11,n_raio_x_com_fluoroscopia_privados,Nº Raio X com fluoroscopia - privados,NA,NA
+REC.2.03,12,n_raio_x_com_fluoroscopia_publicos,Nº Raio X com fluoroscopia - públicos,NA,NA
+REC.2.03,13,n_raio_x_densitometria_ossea,Nº Raio X densitometria óssea,NA,NA
+REC.2.03,14,n_raio_x_densitometria_ossea_privados,Nº Raio X densitometria óssea - privados,NA,NA
+REC.2.03,15,n_raio_x_densitometria_ossea_publicos,Nº Raio X densitometria óssea - públicos,NA,NA
+REC.2.03,16,n_raio_x_odontologicos,Nº Raio X odontológicos,NA,NA
+REC.2.03,17,n_raio_x_odontologicos_privados,Nº Raio X odontológicos - privados,NA,NA
+REC.2.03,18,n_raio_x_odontologicos_publicos,Nº Raio X odontológicos - públicos,NA,NA
+REC.2.03,19,n_raio_x_para_hemodinamica,Nº Raio X para hemodinâmica,NA,NA
+REC.2.03,20,n_raio_x_para_hemodinamica_privados,Nº Raio X para hemodinâmica - privados,NA,NA
+REC.2.03,21,n_raio_x_para_hemodinamica_publicos,Nº Raio X para hemodinâmica - públicos,NA,NA
+REC.2.03,22,n_raio_x_simples,Nº Raio X simples,NA,NA
+REC.2.03,23,n_raio_x_simples_privados,Nº Raio X simples - privados,NA,NA
+REC.2.03,24,n_raio_x_simples_publicos,Nº Raio X simples - públicos,NA,NA
+REC.2.03,25,n_ressonancia_magnetica,Nº Ressonância magnética,NA,NA
+REC.2.03,26,n_ressonancia_magnetica_privados,Nº Ressonância magnética - privados,NA,NA
+REC.2.03,27,n_ressonancia_magnetica_publicos,Nº Ressonância magnética - públicos,NA,NA
+REC.2.03,28,n_tomografos,Nº Tomógrafos,NA,NA
+REC.2.03,29,n_tomografos_privados,Nº Tomógrafos - privados,NA,NA
+REC.2.03,30,n_tomografos_publicos,Nº Tomógrafos - públicos,NA,NA
+REC.2.03,31,n_ultrassom,Nº Ultrassom,NA,NA
+REC.2.03,32,n_ultrassom_privados,Nº Ultrassom - privados,NA,NA
+REC.2.03,33,n_ultrassom_publicos,Nº Ultrassom - públicos,NA,NA
+REC.3.01,1,valores_pagos_de_alta_complexidade,Valores pagos de alta complexidade,NA,NA
+REC.3.01,2,valores_pagos_de_media_complexidade,Valores pagos de média complexidade,NA,NA
+REC.3.01,3,valores_pagos_para_atendimentos,Valores pagos para atendimentos,NA,NA
+REC.3.02,1,valor_de_internacoes_hospitalares,Valor de internaçoes hospitalares,NA,NA
+REC.3.02,2,valor_intern_hosp_dia_outras_espec,Valor intern.hosp.-dia outras espec.,NA,NA
+REC.3.02,3,valor_intern_hosp_dia_saude_mental,Valor intern.hosp.-dia saúde mental,NA,NA
+REC.3.02,4,valor_internacoes_cirurgicas,Valor internaçoes cirúrgicas,NA,NA
+REC.3.02,5,valor_internacoes_clinicas,Valor internaçoes clínicas,NA,NA
+REC.3.02,6,valor_internacoes_hospital_dia,Valor internaçoes hospital-dia,NA,NA
+REC.3.02,7,valor_internacoes_obstetricas,Valor internaçoes obstétricas,NA,NA
+REC.3.02,8,valor_internacoes_pediatricas,Valor internaçoes pediátricas,NA,NA
+REC.3.02,9,valor_internacoes_pneumologia_sanitaria,Valor internaçoes pneumologia sanitária,NA,NA
+REC.3.02,10,valor_internacoes_psiquiatricas,Valor internaçoes psiquiátricas,NA,NA
+REC.3.02,11,valor_internacoes_reabilitacao_cronicos,Valor internaçoes reabilitaçao/crônicos,NA,NA
+REC.3.03,1,valor_despesas_asps_estadual,Valor despesas ASPS - estadual,NA,NA
+REC.3.03,2,valor_despesas_asps_federal,Valor despesas ASPS - federal,NA,NA
+REC.3.03,3,valor_despesas_asps_municipal,Valor despesas ASPS - municipal,NA,NA
+REC.3.03,4,valor_despesas_asps_total,Valor despesas ASPS - total,NA,NA
+REC.3.04,1,valor_despesas_asps_estadual,Valor despesas ASPS - estadual,NA,NA
+REC.3.04,2,valor_despesas_asps_federal,Valor despesas ASPS - federal,NA,NA
+REC.3.04,3,valor_despesas_asps_municipal,Valor despesas ASPS - municipal,NA,NA
+REC.3.04,4,valor_despesas_asps_total,Valor despesas ASPS - total,NA,NA
+REC.4.01,1,despesa_media_mensal_famil_assist_saude,Despesa média mensal famil. assist.saúde,NA,NA
+REC.4.02,1,consumo_final_das_familias_com_saude,Consumo final das famílias com saúde,NA,NA
+REC.4.03,1,gasto_nac_com_saude_do_pib,Gasto nac.com saúde % do PIB,NA,NA
+REC.4.03,2,gasto_nac_com_saude_do_pib_fam_isfl,Gasto nac.com saúde % do PIB - fam./ISFL,NA,NA
+REC.4.03,3,gasto_nac_com_saude_do_pib_governo,Gasto nac.com saúde % do PIB - governo,NA,NA
+REC.4.04,1,gasto_nac_p_capita_com_saude,Gasto nac. p/capita com saúde,NA,NA
+REC.4.04,2,gasto_nac_p_capita_com_saude_fam_isfl,Gasto nac. p/capita com saúde - fam./ISFL,NA,NA
+REC.4.04,3,gasto_nac_p_capita_com_saude_governo,Gasto nac. p/capita com saúde - governo,NA,NA
+REC.4.05,1,itens_de_gasto:gasto_direto_com_outras_despesas_correntes,Itens de gasto: Gasto direto com outras despesas correntes,NA,NA
+REC.4.05,2,itens_de_gasto:gasto_direto_com_pessoal,Itens de gasto: Gasto direto com pessoal,NA,NA
+REC.4.05,3,itens_de_gasto:gasto_direto_total,Itens de gasto: Gasto direto total,NA,NA
+REC.4.05,4,itens_de_gasto:gasto_federal_com_saude,Itens de gasto: Gasto federal com saúde,NA,NA
+REC.4.05,5,itens_de_gasto:outras_transferencias,Itens de gasto: Outras transferências,NA,NA
+REC.4.05,6,itens_de_gasto:outros_gastos_diretos,Itens de gasto: Outros gastos diretos,NA,NA
+REC.4.05,7,itens_de_gasto:transferencias_a_estados_e_df,Itens de gasto: Transferências a estados e DF,NA,NA
+REC.4.05,8,itens_de_gasto:transferencias_a_municipios,Itens de gasto: Transferências a municípios,NA,NA
+REC.4.06,1,tipo_de_despesa:percentual_sobre_despesas_nao_financeiras,Tipo de despesa: Percentual sobre despesas não financeiras,NA,NA
+REC.4.06,2,tipo_de_despesa:percentual_sobre_despesas_totais,Tipo de despesa: Percentual sobre despesas totais,NA,NA
+REC.5.01,1,gasto_publ_com_saneam_basico_estado_df,Gasto públ.com saneam.básico - estado/DF,NA,NA
+REC.5.01,2,gasto_publ_com_saneam_basico_federal,Gasto públ.com saneam.básico - federal,NA,NA
+REC.5.01,3,gasto_publ_com_saneam_basico_municipio,Gasto públ.com saneam.básico - municipio,NA,NA
+REC.5.01,4,gasto_publico_com_saneamento_basico,Gasto público com saneamento básico,NA,NA
+REC.5.02,1,total,Total,NA,NA
+REC.5.03,1,total,Total,NA,NA
+REC.6.01,1,import_em_bens_serv_saude_aparelhos_e_instrumentos_para_uso_medico_e_odontologico,% Import.em bens/serv.saúde - Aparelhos e instrumentos para uso médico e odontológico,NA,NA
+REC.6.01,2,import_em_bens_serv_saude_medicamentos_para_uso_humano,% Import.em bens/serv.saúde - Medicamentos para uso humano,NA,NA
+REC.6.01,3,import_em_bens_serv_saude_outros_materiais_para_uso_medico_odontologico_e_optico_inclusive_protese,"% Import.em bens/serv.saúde - Outros materiais para uso médico, odontológico e óptico, inclusive prótese",NA,NA
+REC.6.01,4,import_em_bens_serv_saude_outros_nao_saude,% Import.em bens/serv.saúde - Outros (nao saúde),NA,NA
+REC.6.01,5,import_em_bens_serv_saude_preparacoes_farmaceuticas,% Import.em bens/serv.saúde - Preparaçoes farmacêuticas,NA,NA
+REC.6.01,6,import_em_bens_serv_saude_produtos_farmoquimicos,% Import.em bens/serv.saúde - Produtos farmoquímicos,NA,NA
+REC.6.01,7,import_em_bens_serv_saude_produtos_relacionados_a_saude,% Import.em bens/serv.saúde - Produtos relacionados à saúde,NA,NA
+REC.6.01,8,import_em_bens_serv_saude_saude_privada,% Import.em bens/serv.saúde - Saúde privada,NA,NA
+SOC.1.01,1,faixa_etaria:15_a_19_anos,Faixa etária: 15 a 19 anos,NA,NA
+SOC.1.01,2,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+SOC.1.01,3,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+SOC.1.01,4,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+SOC.1.01,5,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+SOC.1.01,6,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+SOC.1.01,7,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+SOC.1.01,8,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+SOC.1.01,9,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+SOC.1.01,10,raca_cor:branca,Raça/cor: Branca,NA,NA
+SOC.1.01,11,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+SOC.1.01,12,raca_cor:parda,Raça/cor: Parda,NA,NA
+SOC.1.01,13,raca_cor:preta,Raça/cor: Preta,NA,NA
+SOC.1.01,14,renda_per_capta:ate_1_4_do_salario_minimo,Renda per capta: Até 1/4 do salário mínimo,NA,NA
+SOC.1.01,15,renda_per_capta:cinco_ou_mais_salarios_minimos,Renda per capta: Cinco ou mais salários mínimos,NA,NA
+SOC.1.01,16,renda_per_capta:maior_de_1_2_ate_um_salario_minimo,Renda per capta: Maior de 1/2 até um salário mínimo,NA,NA
+SOC.1.01,17,renda_per_capta:maior_de_1_4_ate_1_2_salario_minimo,Renda per capta: Maior de 1/4 até 1/2 salário mínimo,NA,NA
+SOC.1.01,18,renda_per_capta:maior_de_dois_ate_cinco_salario_minimos,Renda per capta: Maior de dois até cinco salário mínimos,NA,NA
+SOC.1.01,19,renda_per_capta:maior_de_um_ate_dois_salario_minimos,Renda per capta: Maior de um até dois salário mínimos,NA,NA
+SOC.1.01,20,sexo:feminino,Sexo: Feminino,NA,NA
+SOC.1.01,21,sexo:masculino,Sexo: Masculino,NA,NA
+SOC.1.01,22,situacao_do_domicilio:rural,Situação do domicílio: Rural,NA,NA
+SOC.1.01,23,situacao_do_domicilio:urbano,Situação do domicílio: Urbano,NA,NA
+SOC.1.01,24,tipo_de_area:capital,Tipo de área: Capital,NA,NA
+SOC.1.01,25,tipo_de_area:resto_da_uf,Tipo de área: Resto da UF,NA,NA
+SOC.1.01,26,tipo_de_area:ride_sem_capital,Tipo de área: RIDE sem capital,NA,NA
+SOC.1.01,27,tipo_de_area:rm_sem_capital,Tipo de área: RM sem capital,NA,NA
+SOC.1.01,28,total,Total,NA,NA
+SOC.1.02,1,faixa_etaria:25_a_29_anos,Faixa etária: 25 a 29 anos,NA,NA
+SOC.1.02,2,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+SOC.1.02,3,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+SOC.1.02,4,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+SOC.1.02,5,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+SOC.1.02,6,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+SOC.1.02,7,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+SOC.1.02,8,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+SOC.1.02,9,raca_cor:branca,Raça/cor: Branca,NA,NA
+SOC.1.02,10,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+SOC.1.02,11,raca_cor:parda,Raça/cor: Parda,NA,NA
+SOC.1.02,12,raca_cor:preta,Raça/cor: Preta,NA,NA
+SOC.1.02,13,renda_per_capta:ate_1_4_do_salario_minimo,Renda per capta: Até 1/4 do salário mínimo,NA,NA
+SOC.1.02,14,renda_per_capta:cinco_ou_mais_salarios_minimos,Renda per capta: Cinco ou mais salários mínimos,NA,NA
+SOC.1.02,15,renda_per_capta:maior_de_1_2_ate_um_salario_minimo,Renda per capta: Maior de 1/2 até um salário mínimo,NA,NA
+SOC.1.02,16,renda_per_capta:maior_de_1_4_ate_1_2_salario_minimo,Renda per capta: Maior de 1/4 até 1/2 salário mínimo,NA,NA
+SOC.1.02,17,renda_per_capta:maior_de_dois_ate_cinco_salario_minimos,Renda per capta: Maior de dois até cinco salário mínimos,NA,NA
+SOC.1.02,18,renda_per_capta:maior_de_um_ate_dois_salario_minimos,Renda per capta: Maior de um até dois salário mínimos,NA,NA
+SOC.1.02,19,sexo:feminino,Sexo: Feminino,NA,NA
+SOC.1.02,20,sexo:masculino,Sexo: Masculino,NA,NA
+SOC.1.02,21,situacao_do_domicilio:rural,Situação do domicílio: Rural,NA,NA
+SOC.1.02,22,situacao_do_domicilio:urbano,Situação do domicílio: Urbano,NA,NA
+SOC.1.02,23,tipo_de_area:capital,Tipo de área: Capital,NA,NA
+SOC.1.02,24,tipo_de_area:resto_da_uf,Tipo de área: Resto da UF,NA,NA
+SOC.1.02,25,tipo_de_area:ride_sem_capital,Tipo de área: RIDE sem capital,NA,NA
+SOC.1.02,26,tipo_de_area:rm_sem_capital,Tipo de área: RM sem capital,NA,NA
+SOC.1.02,27,total,Total,NA,NA
+SOC.2.01,1,faixa_etaria:14_a_19_anos,Faixa etária: 14 a 19 anos,NA,NA
+SOC.2.01,2,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+SOC.2.01,3,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+SOC.2.01,4,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+SOC.2.01,5,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+SOC.2.01,6,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+SOC.2.01,7,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+SOC.2.01,8,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+SOC.2.01,9,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+SOC.2.01,10,raca_cor:branca,Raça/cor: Branca,NA,NA
+SOC.2.01,11,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+SOC.2.01,12,raca_cor:parda,Raça/cor: Parda,NA,NA
+SOC.2.01,13,raca_cor:preta,Raça/cor: Preta,NA,NA
+SOC.2.01,14,renda_per_capta:ate_1_4_do_salario_minimo,Renda per capta: Até 1/4 do salário mínimo,NA,NA
+SOC.2.01,15,renda_per_capta:cinco_ou_mais_salarios_minimos,Renda per capta: Cinco ou mais salários mínimos,NA,NA
+SOC.2.01,16,renda_per_capta:maior_de_1_2_ate_um_salario_minimo,Renda per capta: Maior de 1/2 até um salário mínimo,NA,NA
+SOC.2.01,17,renda_per_capta:maior_de_1_4_ate_1_2_salario_minimo,Renda per capta: Maior de 1/4 até 1/2 salário mínimo,NA,NA
+SOC.2.01,18,renda_per_capta:maior_de_dois_ate_cinco_salario_minimos,Renda per capta: Maior de dois até cinco salário mínimos,NA,NA
+SOC.2.01,19,renda_per_capta:maior_de_um_ate_dois_salario_minimos,Renda per capta: Maior de um até dois salário mínimos,NA,NA
+SOC.2.01,20,sexo:feminino,Sexo: Feminino,NA,NA
+SOC.2.01,21,sexo:masculino,Sexo: Masculino,NA,NA
+SOC.2.01,22,situacao_do_domicilio:rural,Situação do domicílio: Rural,NA,NA
+SOC.2.01,23,situacao_do_domicilio:urbano,Situação do domicílio: Urbano,NA,NA
+SOC.2.01,24,tipo_de_area:capital,Tipo de área: Capital,NA,NA
+SOC.2.01,25,tipo_de_area:resto_da_uf,Tipo de área: Resto da UF,NA,NA
+SOC.2.01,26,tipo_de_area:ride_sem_capital,Tipo de área: RIDE sem capital,NA,NA
+SOC.2.01,27,tipo_de_area:rm_sem_capital,Tipo de área: RM sem capital,NA,NA
+SOC.2.01,28,total,Total,NA,NA
+SOC.2.02,1,faixa_etaria:14_a_19_anos,Faixa etária: 14 a 19 anos,NA,NA
+SOC.2.02,2,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+SOC.2.02,3,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+SOC.2.02,4,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+SOC.2.02,5,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+SOC.2.02,6,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+SOC.2.02,7,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+SOC.2.02,8,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+SOC.2.02,9,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+SOC.2.02,10,raca_cor:branca,Raça/cor: Branca,NA,NA
+SOC.2.02,11,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+SOC.2.02,12,raca_cor:parda,Raça/cor: Parda,NA,NA
+SOC.2.02,13,raca_cor:preta,Raça/cor: Preta,NA,NA
+SOC.2.02,14,renda_per_capta:ate_1_4_do_salario_minimo,Renda per capta: Até 1/4 do salário mínimo,NA,NA
+SOC.2.02,15,renda_per_capta:cinco_ou_mais_salarios_minimos,Renda per capta: Cinco ou mais salários mínimos,NA,NA
+SOC.2.02,16,renda_per_capta:maior_de_1_2_ate_um_salario_minimo,Renda per capta: Maior de 1/2 até um salário mínimo,NA,NA
+SOC.2.02,17,renda_per_capta:maior_de_1_4_ate_1_2_salario_minimo,Renda per capta: Maior de 1/4 até 1/2 salário mínimo,NA,NA
+SOC.2.02,18,renda_per_capta:maior_de_dois_ate_cinco_salario_minimos,Renda per capta: Maior de dois até cinco salário mínimos,NA,NA
+SOC.2.02,19,renda_per_capta:maior_de_um_ate_dois_salario_minimos,Renda per capta: Maior de um até dois salário mínimos,NA,NA
+SOC.2.02,20,sexo:feminino,Sexo: Feminino,NA,NA
+SOC.2.02,21,sexo:masculino,Sexo: Masculino,NA,NA
+SOC.2.02,22,situacao_do_domicilio:rural,Situação do domicílio: Rural,NA,NA
+SOC.2.02,23,situacao_do_domicilio:urbano,Situação do domicílio: Urbano,NA,NA
+SOC.2.02,24,tipo_de_area:capital,Tipo de área: Capital,NA,NA
+SOC.2.02,25,tipo_de_area:resto_da_uf,Tipo de área: Resto da UF,NA,NA
+SOC.2.02,26,tipo_de_area:ride_sem_capital,Tipo de área: RIDE sem capital,NA,NA
+SOC.2.02,27,tipo_de_area:rm_sem_capital,Tipo de área: RM sem capital,NA,NA
+SOC.2.02,28,total,Total,NA,NA
+SOC.2.03,1,faixa_etaria:14_a_19_anos,Faixa etária: 14 a 19 anos,NA,NA
+SOC.2.03,2,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+SOC.2.03,3,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+SOC.2.03,4,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+SOC.2.03,5,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+SOC.2.03,6,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+SOC.2.03,7,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+SOC.2.03,8,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+SOC.2.03,9,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+SOC.2.03,10,raca_cor:branca,Raça/cor: Branca,NA,NA
+SOC.2.03,11,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+SOC.2.03,12,raca_cor:parda,Raça/cor: Parda,NA,NA
+SOC.2.03,13,raca_cor:preta,Raça/cor: Preta,NA,NA
+SOC.2.03,14,renda_per_capta:ate_1_4_do_salario_minimo,Renda per capta: Até 1/4 do salário mínimo,NA,NA
+SOC.2.03,15,renda_per_capta:cinco_ou_mais_salarios_minimos,Renda per capta: Cinco ou mais salários mínimos,NA,NA
+SOC.2.03,16,renda_per_capta:maior_de_1_2_ate_um_salario_minimo,Renda per capta: Maior de 1/2 até um salário mínimo,NA,NA
+SOC.2.03,17,renda_per_capta:maior_de_1_4_ate_1_2_salario_minimo,Renda per capta: Maior de 1/4 até 1/2 salário mínimo,NA,NA
+SOC.2.03,18,renda_per_capta:maior_de_dois_ate_cinco_salario_minimos,Renda per capta: Maior de dois até cinco salário mínimos,NA,NA
+SOC.2.03,19,renda_per_capta:maior_de_um_ate_dois_salario_minimos,Renda per capta: Maior de um até dois salário mínimos,NA,NA
+SOC.2.03,20,sexo:feminino,Sexo: Feminino,NA,NA
+SOC.2.03,21,sexo:masculino,Sexo: Masculino,NA,NA
+SOC.2.03,22,situacao_do_domicilio:rural,Situação do domicílio: Rural,NA,NA
+SOC.2.03,23,situacao_do_domicilio:urbano,Situação do domicílio: Urbano,NA,NA
+SOC.2.03,24,tipo_de_area:capital,Tipo de área: Capital,NA,NA
+SOC.2.03,25,tipo_de_area:resto_da_uf,Tipo de área: Resto da UF,NA,NA
+SOC.2.03,26,tipo_de_area:ride_sem_capital,Tipo de área: RIDE sem capital,NA,NA
+SOC.2.03,27,tipo_de_area:rm_sem_capital,Tipo de área: RM sem capital,NA,NA
+SOC.2.03,28,total,Total,NA,NA
+SOC.2.04,1,faixa_etaria:15_a_17_anos,Faixa etária: 15 a 17 anos,NA,NA
+SOC.2.04,2,faixa_etaria:18_a_24_anos,Faixa etária: 18 a 24 anos,NA,NA
+SOC.2.04,3,faixa_etaria:25_a_29_anos,Faixa etária: 25 a 29 anos,NA,NA
+SOC.2.04,4,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+SOC.2.04,5,raca_cor:branca,Raça/cor: Branca,NA,NA
+SOC.2.04,6,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+SOC.2.04,7,raca_cor:parda,Raça/cor: Parda,NA,NA
+SOC.2.04,8,raca_cor:preta,Raça/cor: Preta,NA,NA
+SOC.2.04,9,renda_per_capta:ate_1_4_do_salario_minimo,Renda per capta: Até 1/4 do salário mínimo,NA,NA
+SOC.2.04,10,renda_per_capta:cinco_ou_mais_salarios_minimos,Renda per capta: Cinco ou mais salários mínimos,NA,NA
+SOC.2.04,11,renda_per_capta:maior_de_1_2_ate_um_salario_minimo,Renda per capta: Maior de 1/2 até um salário mínimo,NA,NA
+SOC.2.04,12,renda_per_capta:maior_de_1_4_ate_1_2_salario_minimo,Renda per capta: Maior de 1/4 até 1/2 salário mínimo,NA,NA
+SOC.2.04,13,renda_per_capta:maior_de_dois_ate_cinco_salario_minimos,Renda per capta: Maior de dois até cinco salário mínimos,NA,NA
+SOC.2.04,14,renda_per_capta:maior_de_um_ate_dois_salario_minimos,Renda per capta: Maior de um até dois salário mínimos,NA,NA
+SOC.2.04,15,sexo:feminino,Sexo: Feminino,NA,NA
+SOC.2.04,16,sexo:masculino,Sexo: Masculino,NA,NA
+SOC.2.04,17,situacao_do_domicilio:rural,Situação do domicílio: Rural,NA,NA
+SOC.2.04,18,situacao_do_domicilio:urbano,Situação do domicílio: Urbano,NA,NA
+SOC.2.04,19,tipo_de_area:capital,Tipo de área: Capital,NA,NA
+SOC.2.04,20,tipo_de_area:resto_da_uf,Tipo de área: Resto da UF,NA,NA
+SOC.2.04,21,tipo_de_area:ride_sem_capital,Tipo de área: RIDE sem capital,NA,NA
+SOC.2.04,22,tipo_de_area:rm_sem_capital,Tipo de área: RM sem capital,NA,NA
+SOC.2.04,23,total,Total,NA,NA
+SOC.2.05,1,faixa_etaria:14_a_15_anos,Faixa etária: 14 a 15 anos,NA,NA
+SOC.2.05,2,faixa_etaria:16_a_17_anos,Faixa etária: 16 a 17 anos,NA,NA
+SOC.2.05,3,faixa_etaria:5_a_13_anos,Faixa etária: 5 a 13 anos,NA,NA
+SOC.2.05,4,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+SOC.2.05,5,raca_cor:branca,Raça/cor: Branca,NA,NA
+SOC.2.05,6,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+SOC.2.05,7,raca_cor:parda,Raça/cor: Parda,NA,NA
+SOC.2.05,8,raca_cor:preta,Raça/cor: Preta,NA,NA
+SOC.2.05,9,renda_per_capta:ate_1_4_do_salario_minimo,Renda per capta: Até 1/4 do salário mínimo,NA,NA
+SOC.2.05,10,renda_per_capta:cinco_ou_mais_salarios_minimos,Renda per capta: Cinco ou mais salários mínimos,NA,NA
+SOC.2.05,11,renda_per_capta:maior_de_1_2_ate_um_salario_minimo,Renda per capta: Maior de 1/2 até um salário mínimo,NA,NA
+SOC.2.05,12,renda_per_capta:maior_de_1_4_ate_1_2_salario_minimo,Renda per capta: Maior de 1/4 até 1/2 salário mínimo,NA,NA
+SOC.2.05,13,renda_per_capta:maior_de_dois_ate_cinco_salario_minimos,Renda per capta: Maior de dois até cinco salário mínimos,NA,NA
+SOC.2.05,14,renda_per_capta:maior_de_um_ate_dois_salario_minimos,Renda per capta: Maior de um até dois salário mínimos,NA,NA
+SOC.2.05,15,sexo:feminino,Sexo: Feminino,NA,NA
+SOC.2.05,16,sexo:masculino,Sexo: Masculino,NA,NA
+SOC.2.05,17,situacao_do_domicilio:rural,Situação do domicílio: Rural,NA,NA
+SOC.2.05,18,situacao_do_domicilio:urbano,Situação do domicílio: Urbano,NA,NA
+SOC.2.05,19,tipo_de_area:capital,Tipo de área: Capital,NA,NA
+SOC.2.05,20,tipo_de_area:resto_da_uf,Tipo de área: Resto da UF,NA,NA
+SOC.2.05,21,tipo_de_area:ride_sem_capital,Tipo de área: RIDE sem capital,NA,NA
+SOC.2.05,22,tipo_de_area:rm_sem_capital,Tipo de área: RM sem capital,NA,NA
+SOC.2.05,23,total,Total,NA,NA
+SOC.3.01,1,faixa_etaria:0_a_9_anos,Faixa etária: 0 a 9 anos,NA,NA
+SOC.3.01,2,faixa_etaria:10_a_19_anos,Faixa etária: 10 a 19 anos,NA,NA
+SOC.3.01,3,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+SOC.3.01,4,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+SOC.3.01,5,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+SOC.3.01,6,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+SOC.3.01,7,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+SOC.3.01,8,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+SOC.3.01,9,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+SOC.3.01,10,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+SOC.3.01,11,raca_cor:branca,Raça/cor: Branca,NA,NA
+SOC.3.01,12,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+SOC.3.01,13,raca_cor:parda,Raça/cor: Parda,NA,NA
+SOC.3.01,14,raca_cor:preta,Raça/cor: Preta,NA,NA
+SOC.3.01,15,renda_per_capta:ate_1_4_do_salario_minimo,Renda per capta: Até 1/4 do salário mínimo,NA,NA
+SOC.3.01,16,renda_per_capta:cinco_ou_mais_salarios_minimos,Renda per capta: Cinco ou mais salários mínimos,NA,NA
+SOC.3.01,17,renda_per_capta:maior_de_1_2_ate_um_salario_minimo,Renda per capta: Maior de 1/2 até um salário mínimo,NA,NA
+SOC.3.01,18,renda_per_capta:maior_de_1_4_ate_1_2_salario_minimo,Renda per capta: Maior de 1/4 até 1/2 salário mínimo,NA,NA
+SOC.3.01,19,renda_per_capta:maior_de_dois_ate_cinco_salario_minimos,Renda per capta: Maior de dois até cinco salário mínimos,NA,NA
+SOC.3.01,20,renda_per_capta:maior_de_um_ate_dois_salario_minimos,Renda per capta: Maior de um até dois salário mínimos,NA,NA
+SOC.3.01,21,sexo:feminino,Sexo: Feminino,NA,NA
+SOC.3.01,22,sexo:masculino,Sexo: Masculino,NA,NA
+SOC.3.01,23,situacao_do_domicilio:rural,Situação do domicílio: Rural,NA,NA
+SOC.3.01,24,situacao_do_domicilio:urbano,Situação do domicílio: Urbano,NA,NA
+SOC.3.01,25,tipo_de_area:capital,Tipo de área: Capital,NA,NA
+SOC.3.01,26,tipo_de_area:resto_da_uf,Tipo de área: Resto da UF,NA,NA
+SOC.3.01,27,tipo_de_area:ride_sem_capital,Tipo de área: RIDE sem capital,NA,NA
+SOC.3.01,28,tipo_de_area:rm_sem_capital,Tipo de área: RM sem capital,NA,NA
+SOC.3.01,29,total,Total,NA,NA
+SOC.3.02,1,faixa_etaria_ppc_3_00_dia:0_a_9_anos,"Faixa etária (PPC $3,00/dia): 0 a 9 anos",NA,NA
+SOC.3.02,2,faixa_etaria_ppc_3_00_dia:10_a_19_anos,"Faixa etária (PPC $3,00/dia): 10 a 19 anos",NA,NA
+SOC.3.02,3,faixa_etaria_ppc_3_00_dia:20_a_29_anos,"Faixa etária (PPC $3,00/dia): 20 a 29 anos",NA,NA
+SOC.3.02,4,faixa_etaria_ppc_3_00_dia:30_a_39_anos,"Faixa etária (PPC $3,00/dia): 30 a 39 anos",NA,NA
+SOC.3.02,5,faixa_etaria_ppc_3_00_dia:40_a_49_anos,"Faixa etária (PPC $3,00/dia): 40 a 49 anos",NA,NA
+SOC.3.02,6,faixa_etaria_ppc_3_00_dia:50_a_59_anos,"Faixa etária (PPC $3,00/dia): 50 a 59 anos",NA,NA
+SOC.3.02,7,faixa_etaria_ppc_3_00_dia:60_a_69_anos,"Faixa etária (PPC $3,00/dia): 60 a 69 anos",NA,NA
+SOC.3.02,8,faixa_etaria_ppc_3_00_dia:70_a_79_anos,"Faixa etária (PPC $3,00/dia): 70 a 79 anos",NA,NA
+SOC.3.02,9,faixa_etaria_ppc_3_00_dia:80_anos_ou_mais,"Faixa etária (PPC $3,00/dia): 80 anos ou mais",NA,NA
+SOC.3.02,10,faixa_etaria_ppc_4_20_dia:0_a_9_anos,"Faixa etária (PPC $4,20/dia): 0 a 9 anos",NA,NA
+SOC.3.02,11,faixa_etaria_ppc_4_20_dia:10_a_19_anos,"Faixa etária (PPC $4,20/dia): 10 a 19 anos",NA,NA
+SOC.3.02,12,faixa_etaria_ppc_4_20_dia:20_a_29_anos,"Faixa etária (PPC $4,20/dia): 20 a 29 anos",NA,NA
+SOC.3.02,13,faixa_etaria_ppc_4_20_dia:30_a_39_anos,"Faixa etária (PPC $4,20/dia): 30 a 39 anos",NA,NA
+SOC.3.02,14,faixa_etaria_ppc_4_20_dia:40_a_49_anos,"Faixa etária (PPC $4,20/dia): 40 a 49 anos",NA,NA
+SOC.3.02,15,faixa_etaria_ppc_4_20_dia:50_a_59_anos,"Faixa etária (PPC $4,20/dia): 50 a 59 anos",NA,NA
+SOC.3.02,16,faixa_etaria_ppc_4_20_dia:60_a_69_anos,"Faixa etária (PPC $4,20/dia): 60 a 69 anos",NA,NA
+SOC.3.02,17,faixa_etaria_ppc_4_20_dia:70_a_79_anos,"Faixa etária (PPC $4,20/dia): 70 a 79 anos",NA,NA
+SOC.3.02,18,faixa_etaria_ppc_4_20_dia:80_anos_ou_mais,"Faixa etária (PPC $4,20/dia): 80 anos ou mais",NA,NA
+SOC.3.02,19,faixa_etaria_ppc_8_30_dia:0_a_9_anos,"Faixa etária (PPC $8,30/dia): 0 a 9 anos",NA,NA
+SOC.3.02,20,faixa_etaria_ppc_8_30_dia:10_a_19_anos,"Faixa etária (PPC $8,30/dia): 10 a 19 anos",NA,NA
+SOC.3.02,21,faixa_etaria_ppc_8_30_dia:20_a_29_anos,"Faixa etária (PPC $8,30/dia): 20 a 29 anos",NA,NA
+SOC.3.02,22,faixa_etaria_ppc_8_30_dia:30_a_39_anos,"Faixa etária (PPC $8,30/dia): 30 a 39 anos",NA,NA
+SOC.3.02,23,faixa_etaria_ppc_8_30_dia:40_a_49_anos,"Faixa etária (PPC $8,30/dia): 40 a 49 anos",NA,NA
+SOC.3.02,24,faixa_etaria_ppc_8_30_dia:50_a_59_anos,"Faixa etária (PPC $8,30/dia): 50 a 59 anos",NA,NA
+SOC.3.02,25,faixa_etaria_ppc_8_30_dia:60_a_69_anos,"Faixa etária (PPC $8,30/dia): 60 a 69 anos",NA,NA
+SOC.3.02,26,faixa_etaria_ppc_8_30_dia:70_a_79_anos,"Faixa etária (PPC $8,30/dia): 70 a 79 anos",NA,NA
+SOC.3.02,27,faixa_etaria_ppc_8_30_dia:80_anos_ou_mais,"Faixa etária (PPC $8,30/dia): 80 anos ou mais",NA,NA
+SOC.3.02,28,raca_cor_ppc_3_00_dia:amarela,"Raça/cor (PPC $3,00/dia): Amarela",NA,NA
+SOC.3.02,29,raca_cor_ppc_3_00_dia:branca,"Raça/cor (PPC $3,00/dia): Branca",NA,NA
+SOC.3.02,30,raca_cor_ppc_3_00_dia:indigena,"Raça/cor (PPC $3,00/dia): Indígena",NA,NA
+SOC.3.02,31,raca_cor_ppc_3_00_dia:parda,"Raça/cor (PPC $3,00/dia): Parda",NA,NA
+SOC.3.02,32,raca_cor_ppc_3_00_dia:preta,"Raça/cor (PPC $3,00/dia): Preta",NA,NA
+SOC.3.02,33,raca_cor_ppc_4_20_dia:amarela,"Raça/cor (PPC $4,20/dia): Amarela",NA,NA
+SOC.3.02,34,raca_cor_ppc_4_20_dia:branca,"Raça/cor (PPC $4,20/dia): Branca",NA,NA
+SOC.3.02,35,raca_cor_ppc_4_20_dia:indigena,"Raça/cor (PPC $4,20/dia): Indígena",NA,NA
+SOC.3.02,36,raca_cor_ppc_4_20_dia:parda,"Raça/cor (PPC $4,20/dia): Parda",NA,NA
+SOC.3.02,37,raca_cor_ppc_4_20_dia:preta,"Raça/cor (PPC $4,20/dia): Preta",NA,NA
+SOC.3.02,38,raca_cor_ppc_8_30_dia:amarela,"Raça/cor (PPC $8,30/dia): Amarela",NA,NA
+SOC.3.02,39,raca_cor_ppc_8_30_dia:branca,"Raça/cor (PPC $8,30/dia): Branca",NA,NA
+SOC.3.02,40,raca_cor_ppc_8_30_dia:indigena,"Raça/cor (PPC $8,30/dia): Indígena",NA,NA
+SOC.3.02,41,raca_cor_ppc_8_30_dia:parda,"Raça/cor (PPC $8,30/dia): Parda",NA,NA
+SOC.3.02,42,raca_cor_ppc_8_30_dia:preta,"Raça/cor (PPC $8,30/dia): Preta",NA,NA
+SOC.3.02,43,sexo_ppc_3_00_dia:feminino,"Sexo (PPC $3,00/dia): Feminino",NA,NA
+SOC.3.02,44,sexo_ppc_3_00_dia:masculino,"Sexo (PPC $3,00/dia): Masculino",NA,NA
+SOC.3.02,45,sexo_ppc_4_20_dia:feminino,"Sexo (PPC $4,20/dia): Feminino",NA,NA
+SOC.3.02,46,sexo_ppc_4_20_dia:masculino,"Sexo (PPC $4,20/dia): Masculino",NA,NA
+SOC.3.02,47,sexo_ppc_8_30_dia:feminino,"Sexo (PPC $8,30/dia): Feminino",NA,NA
+SOC.3.02,48,sexo_ppc_8_30_dia:masculino,"Sexo (PPC $8,30/dia): Masculino",NA,NA
+SOC.3.02,49,situacao_do_domicilio_ppc_3_00_dia:rural,"Situação do domicílio (PPC $3,00/dia): Rural",NA,NA
+SOC.3.02,50,situacao_do_domicilio_ppc_3_00_dia:urbano,"Situação do domicílio (PPC $3,00/dia): Urbano",NA,NA
+SOC.3.02,51,situacao_do_domicilio_ppc_4_20_dia:rural,"Situação do domicílio (PPC $4,20/dia): Rural",NA,NA
+SOC.3.02,52,situacao_do_domicilio_ppc_4_20_dia:urbano,"Situação do domicílio (PPC $4,20/dia): Urbano",NA,NA
+SOC.3.02,53,situacao_do_domicilio_ppc_8_30_dia:rural,"Situação do domicílio (PPC $8,30/dia): Rural",NA,NA
+SOC.3.02,54,situacao_do_domicilio_ppc_8_30_dia:urbano,"Situação do domicílio (PPC $8,30/dia): Urbano",NA,NA
+SOC.3.02,55,tipo_de_area_ppc_3_00_dia:capital,"Tipo de área (PPC $3,00/dia): Capital",NA,NA
+SOC.3.02,56,tipo_de_area_ppc_3_00_dia:resto_da_uf,"Tipo de área (PPC $3,00/dia): Resto da UF",NA,NA
+SOC.3.02,57,tipo_de_area_ppc_3_00_dia:ride_sem_capital,"Tipo de área (PPC $3,00/dia): RIDE sem capital",NA,NA
+SOC.3.02,58,tipo_de_area_ppc_3_00_dia:rm_sem_capital,"Tipo de área (PPC $3,00/dia): RM sem capital",NA,NA
+SOC.3.02,59,tipo_de_area_ppc_4_20_dia:capital,"Tipo de área (PPC $4,20/dia): Capital",NA,NA
+SOC.3.02,60,tipo_de_area_ppc_4_20_dia:resto_da_uf,"Tipo de área (PPC $4,20/dia): Resto da UF",NA,NA
+SOC.3.02,61,tipo_de_area_ppc_4_20_dia:ride_sem_capital,"Tipo de área (PPC $4,20/dia): RIDE sem capital",NA,NA
+SOC.3.02,62,tipo_de_area_ppc_4_20_dia:rm_sem_capital,"Tipo de área (PPC $4,20/dia): RM sem capital",NA,NA
+SOC.3.02,63,tipo_de_area_ppc_8_30_dia:capital,"Tipo de área (PPC $8,30/dia): Capital",NA,NA
+SOC.3.02,64,tipo_de_area_ppc_8_30_dia:resto_da_uf,"Tipo de área (PPC $8,30/dia): Resto da UF",NA,NA
+SOC.3.02,65,tipo_de_area_ppc_8_30_dia:ride_sem_capital,"Tipo de área (PPC $8,30/dia): RIDE sem capital",NA,NA
+SOC.3.02,66,tipo_de_area_ppc_8_30_dia:rm_sem_capital,"Tipo de área (PPC $8,30/dia): RM sem capital",NA,NA
+SOC.3.02,67,total,Total,NA,NA
+SOC.3.03,1,faixa_etaria:0_a_9_anos,Faixa etária: 0 a 9 anos,NA,NA
+SOC.3.03,2,faixa_etaria:10_a_19_anos,Faixa etária: 10 a 19 anos,NA,NA
+SOC.3.03,3,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+SOC.3.03,4,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+SOC.3.03,5,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+SOC.3.03,6,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+SOC.3.03,7,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+SOC.3.03,8,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+SOC.3.03,9,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+SOC.3.03,10,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+SOC.3.03,11,raca_cor:branca,Raça/cor: Branca,NA,NA
+SOC.3.03,12,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+SOC.3.03,13,raca_cor:parda,Raça/cor: Parda,NA,NA
+SOC.3.03,14,raca_cor:preta,Raça/cor: Preta,NA,NA
+SOC.3.03,15,renda_per_capta:ate_1_4_do_salario_minimo,Renda per capta: Até 1/4 do salário mínimo,NA,NA
+SOC.3.03,16,renda_per_capta:cinco_ou_mais_salarios_minimos,Renda per capta: Cinco ou mais salários mínimos,NA,NA
+SOC.3.03,17,renda_per_capta:maior_de_1_2_ate_um_salario_minimo,Renda per capta: Maior de 1/2 até um salário mínimo,NA,NA
+SOC.3.03,18,renda_per_capta:maior_de_1_4_ate_1_2_salario_minimo,Renda per capta: Maior de 1/4 até 1/2 salário mínimo,NA,NA
+SOC.3.03,19,renda_per_capta:maior_de_dois_ate_cinco_salario_minimos,Renda per capta: Maior de dois até cinco salário mínimos,NA,NA
+SOC.3.03,20,renda_per_capta:maior_de_um_ate_dois_salario_minimos,Renda per capta: Maior de um até dois salário mínimos,NA,NA
+SOC.3.03,21,sexo:feminino,Sexo: Feminino,NA,NA
+SOC.3.03,22,sexo:masculino,Sexo: Masculino,NA,NA
+SOC.3.03,23,situacao_do_domicilio:rural,Situação do domicílio: Rural,NA,NA
+SOC.3.03,24,situacao_do_domicilio:urbano,Situação do domicílio: Urbano,NA,NA
+SOC.3.03,25,tipo_de_area:capital,Tipo de área: Capital,NA,NA
+SOC.3.03,26,tipo_de_area:resto_da_uf,Tipo de área: Resto da UF,NA,NA
+SOC.3.03,27,tipo_de_area:ride_sem_capital,Tipo de área: RIDE sem capital,NA,NA
+SOC.3.03,28,tipo_de_area:rm_sem_capital,Tipo de área: RM sem capital,NA,NA
+SOC.3.03,29,total,Total,NA,NA
+SOC.3.04,1,faixa_etaria:0_a_9_anos,Faixa etária: 0 a 9 anos,NA,NA
+SOC.3.04,2,faixa_etaria:10_a_19_anos,Faixa etária: 10 a 19 anos,NA,NA
+SOC.3.04,3,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+SOC.3.04,4,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+SOC.3.04,5,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+SOC.3.04,6,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+SOC.3.04,7,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+SOC.3.04,8,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+SOC.3.04,9,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+SOC.3.04,10,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+SOC.3.04,11,raca_cor:branca,Raça/cor: Branca,NA,NA
+SOC.3.04,12,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+SOC.3.04,13,raca_cor:parda,Raça/cor: Parda,NA,NA
+SOC.3.04,14,raca_cor:preta,Raça/cor: Preta,NA,NA
+SOC.3.04,15,renda_per_capta:ate_1_4_do_salario_minimo,Renda per capta: Até 1/4 do salário mínimo,NA,NA
+SOC.3.04,16,renda_per_capta:cinco_ou_mais_salarios_minimos,Renda per capta: Cinco ou mais salários mínimos,NA,NA
+SOC.3.04,17,renda_per_capta:maior_de_1_2_ate_um_salario_minimo,Renda per capta: Maior de 1/2 até um salário mínimo,NA,NA
+SOC.3.04,18,renda_per_capta:maior_de_1_4_ate_1_2_salario_minimo,Renda per capta: Maior de 1/4 até 1/2 salário mínimo,NA,NA
+SOC.3.04,19,renda_per_capta:maior_de_dois_ate_cinco_salario_minimos,Renda per capta: Maior de dois até cinco salário mínimos,NA,NA
+SOC.3.04,20,renda_per_capta:maior_de_um_ate_dois_salario_minimos,Renda per capta: Maior de um até dois salário mínimos,NA,NA
+SOC.3.04,21,sexo:feminino,Sexo: Feminino,NA,NA
+SOC.3.04,22,sexo:masculino,Sexo: Masculino,NA,NA
+SOC.3.04,23,situacao_do_domicilio:rural,Situação do domicílio: Rural,NA,NA
+SOC.3.04,24,situacao_do_domicilio:urbano,Situação do domicílio: Urbano,NA,NA
+SOC.3.04,25,tipo_de_area:capital,Tipo de área: Capital,NA,NA
+SOC.3.04,26,tipo_de_area:resto_da_uf,Tipo de área: Resto da UF,NA,NA
+SOC.3.04,27,tipo_de_area:ride_sem_capital,Tipo de área: RIDE sem capital,NA,NA
+SOC.3.04,28,tipo_de_area:rm_sem_capital,Tipo de área: RM sem capital,NA,NA
+SOC.3.04,29,total,Total,NA,NA
+SOC.3.05,1,total,Total,NA,NA
+SOC.4.01,1,faixa_etaria:0_a_9_anos,Faixa etária: 0 a 9 anos,NA,NA
+SOC.4.01,2,faixa_etaria:10_a_19_anos,Faixa etária: 10 a 19 anos,NA,NA
+SOC.4.01,3,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+SOC.4.01,4,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+SOC.4.01,5,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+SOC.4.01,6,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+SOC.4.01,7,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+SOC.4.01,8,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+SOC.4.01,9,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+SOC.4.01,10,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+SOC.4.01,11,raca_cor:branca,Raça/cor: Branca,NA,NA
+SOC.4.01,12,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+SOC.4.01,13,raca_cor:parda,Raça/cor: Parda,NA,NA
+SOC.4.01,14,raca_cor:preta,Raça/cor: Preta,NA,NA
+SOC.4.01,15,renda_per_capta:ate_1_4_do_salario_minimo,Renda per capta: Até 1/4 do salário mínimo,NA,NA
+SOC.4.01,16,renda_per_capta:cinco_ou_mais_salarios_minimos,Renda per capta: Cinco ou mais salários mínimos,NA,NA
+SOC.4.01,17,renda_per_capta:maior_de_1_2_ate_um_salario_minimo,Renda per capta: Maior de 1/2 até um salário mínimo,NA,NA
+SOC.4.01,18,renda_per_capta:maior_de_1_4_ate_1_2_salario_minimo,Renda per capta: Maior de 1/4 até 1/2 salário mínimo,NA,NA
+SOC.4.01,19,renda_per_capta:maior_de_dois_ate_cinco_salario_minimos,Renda per capta: Maior de dois até cinco salário mínimos,NA,NA
+SOC.4.01,20,renda_per_capta:maior_de_um_ate_dois_salario_minimos,Renda per capta: Maior de um até dois salário mínimos,NA,NA
+SOC.4.01,21,sexo:feminino,Sexo: Feminino,NA,NA
+SOC.4.01,22,sexo:masculino,Sexo: Masculino,NA,NA
+SOC.4.01,23,situacao_do_domicilio:urbano,Situação do domicílio: Urbano,NA,NA
+SOC.4.01,24,tipo_de_area:capital,Tipo de área: Capital,NA,NA
+SOC.4.01,25,tipo_de_area:resto_da_uf,Tipo de área: Resto da UF,NA,NA
+SOC.4.01,26,tipo_de_area:ride_sem_capital,Tipo de área: RIDE sem capital,NA,NA
+SOC.4.01,27,tipo_de_area:rm_sem_capital,Tipo de área: RM sem capital,NA,NA
+SOC.4.01,28,total,Total,NA,NA
+SOC.4.02,1,faixa_etaria:0_a_9_anos,Faixa etária: 0 a 9 anos,NA,NA
+SOC.4.02,2,faixa_etaria:10_a_19_anos,Faixa etária: 10 a 19 anos,NA,NA
+SOC.4.02,3,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+SOC.4.02,4,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+SOC.4.02,5,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+SOC.4.02,6,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+SOC.4.02,7,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+SOC.4.02,8,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+SOC.4.02,9,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+SOC.4.02,10,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+SOC.4.02,11,raca_cor:branca,Raça/cor: Branca,NA,NA
+SOC.4.02,12,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+SOC.4.02,13,raca_cor:parda,Raça/cor: Parda,NA,NA
+SOC.4.02,14,raca_cor:preta,Raça/cor: Preta,NA,NA
+SOC.4.02,15,renda_per_capta:ate_1_4_do_salario_minimo,Renda per capta: Até 1/4 do salário mínimo,NA,NA
+SOC.4.02,16,renda_per_capta:cinco_ou_mais_salarios_minimos,Renda per capta: Cinco ou mais salários mínimos,NA,NA
+SOC.4.02,17,renda_per_capta:maior_de_1_2_ate_um_salario_minimo,Renda per capta: Maior de 1/2 até um salário mínimo,NA,NA
+SOC.4.02,18,renda_per_capta:maior_de_1_4_ate_1_2_salario_minimo,Renda per capta: Maior de 1/4 até 1/2 salário mínimo,NA,NA
+SOC.4.02,19,renda_per_capta:maior_de_dois_ate_cinco_salario_minimos,Renda per capta: Maior de dois até cinco salário mínimos,NA,NA
+SOC.4.02,20,renda_per_capta:maior_de_um_ate_dois_salario_minimos,Renda per capta: Maior de um até dois salário mínimos,NA,NA
+SOC.4.02,21,sexo:feminino,Sexo: Feminino,NA,NA
+SOC.4.02,22,sexo:masculino,Sexo: Masculino,NA,NA
+SOC.4.02,23,situacao_do_domicilio:urbano,Situação do domicílio: Urbano,NA,NA
+SOC.4.02,24,tipo_de_area:capital,Tipo de área: Capital,NA,NA
+SOC.4.02,25,tipo_de_area:resto_da_uf,Tipo de área: Resto da UF,NA,NA
+SOC.4.02,26,tipo_de_area:ride_sem_capital,Tipo de área: RIDE sem capital,NA,NA
+SOC.4.02,27,tipo_de_area:rm_sem_capital,Tipo de área: RM sem capital,NA,NA
+SOC.4.02,28,total,Total,NA,NA
+SOC.4.03,1,faixa_etaria:0_a_9_anos,Faixa etária: 0 a 9 anos,NA,NA
+SOC.4.03,2,faixa_etaria:10_a_19_anos,Faixa etária: 10 a 19 anos,NA,NA
+SOC.4.03,3,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+SOC.4.03,4,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+SOC.4.03,5,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+SOC.4.03,6,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+SOC.4.03,7,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+SOC.4.03,8,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+SOC.4.03,9,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+SOC.4.03,10,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+SOC.4.03,11,raca_cor:branca,Raça/cor: Branca,NA,NA
+SOC.4.03,12,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+SOC.4.03,13,raca_cor:parda,Raça/cor: Parda,NA,NA
+SOC.4.03,14,raca_cor:preta,Raça/cor: Preta,NA,NA
+SOC.4.03,15,renda_per_capta:ate_1_4_do_salario_minimo,Renda per capta: Até 1/4 do salário mínimo,NA,NA
+SOC.4.03,16,renda_per_capta:cinco_ou_mais_salarios_minimos,Renda per capta: Cinco ou mais salários mínimos,NA,NA
+SOC.4.03,17,renda_per_capta:maior_de_1_2_ate_um_salario_minimo,Renda per capta: Maior de 1/2 até um salário mínimo,NA,NA
+SOC.4.03,18,renda_per_capta:maior_de_1_4_ate_1_2_salario_minimo,Renda per capta: Maior de 1/4 até 1/2 salário mínimo,NA,NA
+SOC.4.03,19,renda_per_capta:maior_de_dois_ate_cinco_salario_minimos,Renda per capta: Maior de dois até cinco salário mínimos,NA,NA
+SOC.4.03,20,renda_per_capta:maior_de_um_ate_dois_salario_minimos,Renda per capta: Maior de um até dois salário mínimos,NA,NA
+SOC.4.03,21,sexo:feminino,Sexo: Feminino,NA,NA
+SOC.4.03,22,sexo:masculino,Sexo: Masculino,NA,NA
+SOC.4.03,23,situacao_do_domicilio:rural,Situação do domicílio: Rural,NA,NA
+SOC.4.03,24,situacao_do_domicilio:urbano,Situação do domicílio: Urbano,NA,NA
+SOC.4.03,25,tipo_de_area:capital,Tipo de área: Capital,NA,NA
+SOC.4.03,26,tipo_de_area:resto_da_uf,Tipo de área: Resto da UF,NA,NA
+SOC.4.03,27,tipo_de_area:ride_sem_capital,Tipo de área: RIDE sem capital,NA,NA
+SOC.4.03,28,tipo_de_area:rm_sem_capital,Tipo de área: RM sem capital,NA,NA
+SOC.4.03,29,total,Total,NA,NA
+SOC.5.01,1,faixa_etaria:0_a_9_anos,Faixa etária: 0 a 9 anos,NA,NA
+SOC.5.01,2,faixa_etaria:10_a_19_anos,Faixa etária: 10 a 19 anos,NA,NA
+SOC.5.01,3,faixa_etaria:20_a_29_anos,Faixa etária: 20 a 29 anos,NA,NA
+SOC.5.01,4,faixa_etaria:30_a_39_anos,Faixa etária: 30 a 39 anos,NA,NA
+SOC.5.01,5,faixa_etaria:40_a_49_anos,Faixa etária: 40 a 49 anos,NA,NA
+SOC.5.01,6,faixa_etaria:50_a_59_anos,Faixa etária: 50 a 59 anos,NA,NA
+SOC.5.01,7,faixa_etaria:60_a_69_anos,Faixa etária: 60 a 69 anos,NA,NA
+SOC.5.01,8,faixa_etaria:70_a_79_anos,Faixa etária: 70 a 79 anos,NA,NA
+SOC.5.01,9,faixa_etaria:80_anos_ou_mais,Faixa etária: 80 anos ou mais,NA,NA
+SOC.5.01,10,raca_cor:amarela,Raça/cor: Amarela,NA,NA
+SOC.5.01,11,raca_cor:branca,Raça/cor: Branca,NA,NA
+SOC.5.01,12,raca_cor:indigena,Raça/cor: Indígena,NA,NA
+SOC.5.01,13,raca_cor:parda,Raça/cor: Parda,NA,NA
+SOC.5.01,14,raca_cor:preta,Raça/cor: Preta,NA,NA
+SOC.5.01,15,renda_per_capta:ate_1_4_do_salario_minimo,Renda per capta: Até 1/4 do salário mínimo,NA,NA
+SOC.5.01,16,renda_per_capta:cinco_ou_mais_salarios_minimos,Renda per capta: Cinco ou mais salários mínimos,NA,NA
+SOC.5.01,17,renda_per_capta:maior_de_1_2_ate_um_salario_minimo,Renda per capta: Maior de 1/2 até um salário mínimo,NA,NA
+SOC.5.01,18,renda_per_capta:maior_de_1_4_ate_1_2_salario_minimo,Renda per capta: Maior de 1/4 até 1/2 salário mínimo,NA,NA
+SOC.5.01,19,renda_per_capta:maior_de_dois_ate_cinco_salario_minimos,Renda per capta: Maior de dois até cinco salário mínimos,NA,NA
+SOC.5.01,20,renda_per_capta:maior_de_um_ate_dois_salario_minimos,Renda per capta: Maior de um até dois salário mínimos,NA,NA
+SOC.5.01,21,sexo:feminino,Sexo: Feminino,NA,NA
+SOC.5.01,22,sexo:masculino,Sexo: Masculino,NA,NA
+SOC.5.01,23,situacao_do_domicilio:rural,Situação do domicílio: Rural,NA,NA
+SOC.5.01,24,situacao_do_domicilio:urbano,Situação do domicílio: Urbano,NA,NA
+SOC.5.01,25,tipo_de_area:capital,Tipo de área: Capital,NA,NA
+SOC.5.01,26,tipo_de_area:resto_da_uf,Tipo de área: Resto da UF,NA,NA
+SOC.5.01,27,tipo_de_area:ride_sem_capital,Tipo de área: RIDE sem capital,NA,NA
+SOC.5.01,28,tipo_de_area:rm_sem_capital,Tipo de área: RM sem capital,NA,NA
+SOC.5.01,29,total,Total,NA,NA
