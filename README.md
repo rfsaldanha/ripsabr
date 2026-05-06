@@ -7,8 +7,7 @@ Fontes principais:
 - Fichas de Qualificacao dos Indicadores: <https://www.ripsa.org.br/fichasidb>
 - Dados abertos do SUS com bases RIPSA: <https://dadosabertos.saude.gov.br/dataset?q=ripsa>
 
-Os dados sao baixados diretamente dos recursos CKAN do Portal de Dados Abertos
-do SUS. O pacote nao depende de arquivos locais de indicadores nem de Zenodo.
+Os dados sao baixados diretamente dos recursos CKAN do Portal de Dados Abertos do SUS.
 
 ## Uso
 
@@ -57,5 +56,4 @@ prenatal <- get_indicator(
 )
 ```
 
-O padrao `category = NULL` mantem todas as categorias existentes no arquivo de
-origem.
+O padrao `category = NULL` mantem todas as categorias existentes no arquivo de origem.
