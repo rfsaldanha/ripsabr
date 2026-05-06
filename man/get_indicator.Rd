@@ -2,7 +2,7 @@
 % Please edit documentation in R/get_indicator.R
 \name{get_indicator}
 \alias{get_indicator}
-\title{Download a RIPSA indicator}
+\title{Baixe um indicador RIPSA}
 \usage{
 get_indicator(
   code,
@@ -13,57 +13,59 @@ get_indicator(
 )
 }
 \arguments{
-\item{code}{Character scalar. RIPSA indicator code, for example
+\item{code}{Escalar de texto. Código RIPSA do indicador, por exemplo
 \code{"MRB.1.01"}.}
 
-\item{geo}{Character scalar. Geographic level to return. One of
+\item{geo}{Escalar de texto. Nível geográfico a retornar. Um de
 \code{"municipality"}, \code{"state"}, \code{"region"}, \code{"health_region"},
-\code{"macro_region"}, or \code{"country"}.}
+\code{"macro_region"} ou \code{"country"}.}
 
-\item{geo_code}{Optional vector of geographic codes to keep. Codes are
-compared as character values.}
+\item{geo_code}{Vetor opcional de códigos geográficos a manter. Os códigos
+são comparados como texto.}
 
-\item{category}{Optional vector of category codes or names to keep. Use
-\code{"total"} for the total/all-categories rows when they are available in the
-source file. You can also pass a category name returned by
-\code{list_categories()}, such as
-\code{"Nascidos vivos com 7 ou mais consultas"}. Defaults to \code{NULL}, keeping
-every category present in the source file.}
+\item{category}{Vetor opcional de códigos ou nomes de categorias a manter.
+Use \code{"total"} para linhas de total/todas as categorias quando elas
+existirem no arquivo de origem. Também é possível passar um nome retornado
+por \code{list_categories()}, como
+\code{"Nascidos vivos com 7 ou mais consultas"}. O padrão é \code{NULL}, mantendo
+todas as categorias presentes no arquivo de origem.}
 
-\item{category_id}{Optional vector of category ids returned by
-\code{list_categories()}.}
+\item{category_id}{Vetor opcional de identificadores de categoria retornados
+por \code{list_categories()}.}
 }
 \value{
-A tibble with standardized columns: \code{indicator_code},
+Uma tibble com colunas padronizadas: \code{indicator_code},
 \code{indicator_name}, \code{theme}, \code{dimension}, \code{period}, \code{date}, \code{geo_level},
-\code{geo_code}, \code{geo_name}, \code{value}, \code{unit}, \code{category_code}, \code{category}, and
-\code{update_date}. For legacy RIPSA files that expose more than one numerator,
-\code{category_code} and \code{category} identify the numerator used to calculate
-each value.
+\code{geo_code}, \code{geo_name}, \code{value}, \code{unit}, \code{category_code}, \code{category} e
+\code{update_date}. Em arquivos legados da RIPSA com mais de um numerador,
+\code{category_code} e \code{category} identificam o numerador usado para calcular
+cada valor.
 }
 \description{
-\code{get_indicator()} downloads the indicator identified by \code{code} and returns a
-standardized time series for the requested geographic level.
+\code{get_indicator()} baixa o indicador identificado por \code{code} e retorna uma
+série temporal padronizada para o nível geográfico solicitado.
 }
 \details{
-The easiest way to choose categories is to call \code{list_categories(code)} and
-use the returned \code{category_id}, \code{category_code}, or \code{category_name}.
+A forma mais simples de escolher categorias é chamar \code{list_categories(code)}
+e usar \code{category_id}, \code{category_code} ou \code{category_name}.
 
-For files with RIPSA category columns, \code{category} can receive a full
-\code{category_code} returned by this function, such as \code{"TC:0"}, or a category
-prefix, such as \code{"TC"}. Passing a prefix keeps every item under that
-category.
+Em arquivos com colunas de categoria da RIPSA, \code{category} pode receber um
+\code{category_code} completo retornado por esta função, como \code{"TC:0"}, ou um
+prefixo de categoria, como \code{"TC"}. Ao passar um prefixo, todos os itens
+daquela categoria são mantidos.
 
-The category prefixes currently found in the RIPSA CKAN indicator files are:
+Os prefixos de categoria atualmente encontrados nos arquivos CKAN da RIPSA
+são:
 \code{"API"}, \code{"COR"}, \code{"cor_raca"}, \code{"EA"}, \code{"ESP"}, \code{"ETI"}, \code{"EV"}, \code{"FE"},
 \code{"FER"}, \code{"fx_etaria"}, \code{"fx_rdpc"}, \code{"FXETC1"}, \code{"FXETC2"}, \code{"GC"},
 \code{"GIF"}, \code{"Idade"}, \code{"IG"}, \code{"PESSOA1"}, \code{"sap"}, \code{"SD"}, \code{"sexo"},
 \code{"SFE"}, \code{"SG"}, \code{"sitdom"}, \code{"SVA"}, \code{"TC"}, \code{"TD"}, \code{"tipoarea"},
-and \code{"TPC"}.
+e \code{"TPC"}.
 
-For legacy numerator/denominator files, the source does not expose a fixed
-category vocabulary. In these files, \code{category_code} is generated with
-\code{make.names()} from each numerator column label after removing the
-\code{"Numerador - "} prefix. Use \code{category = NULL} once to inspect the available
-\code{category_code} values for a specific indicator.
+Em arquivos legados com numerador e denominador, a fonte não expõe um
+vocabulário fixo de categorias. Nesses arquivos, \code{category_code} é gerado
+com \code{make.names()} a partir do rótulo de cada coluna de numerador, após
+remover o prefixo \code{"Numerador - "}. Use \code{category = NULL} uma vez para
+inspecionar os valores de \code{category_code} disponíveis para um indicador
+específico.
 }

@@ -4,3 +4,33 @@ template:
   params:
     ganalytics: G-2M7VLSRDCB
 
+lang: pt
+
+home:
+  title: ripsabr
+  description: Acesso aos indicadores da RIPSA no R.
+
+navbar:
+  structure:
+    left: [reference, articles]
+    right: [search, github]
+  components:
+    articles:
+      text: Artigos
+      menu:
+      - text: Exemplos de uso
+        href: articles/exemplos.html
+      - text: Tabela de indicadores
+        href: articles/indicadores.html
+
+reference:
+- title: Baixar e consultar indicadores
+  contents:
+  - get_indicator
+  - list_indicators
+  - list_categories
+- title: Dados incluídos
+  desc: Tabelas de metadados usadas pelo pacote e expostas para consulta no site.
+  contents:
+  - indicators
+  - indicator_categories

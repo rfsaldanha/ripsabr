@@ -1,0 +1,49 @@
+---
+title: "Tabela de indicadores"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Tabela de indicadores}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+Esta página expõe a tabela de indicadores incluída no pacote. Ela é a mesma
+base retornada por `list_indicators()` e usada internamente por
+`get_indicator()`.
+
+```{r setup}
+library(ripsabr)
+```
+
+```{r tabela-indicadores}
+indicadores <- list_indicators()
+
+knitr::kable(
+  indicadores[
+    c(
+      "id",
+      "theme",
+      "dimension",
+      "name",
+      "spatial_granularity",
+      "time_granularity",
+      "time_start",
+      "time_end"
+    )
+  ],
+  caption = "Indicadores RIPSA disponíveis no ripsabr"
+)
+```
+
+Para ver as categorias disponíveis em cada indicador, use:
+
+```{r categorias, eval = FALSE}
+list_categories("COB.4.01")
+```

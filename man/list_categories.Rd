@@ -2,21 +2,21 @@
 % Please edit documentation in R/get_indicator.R
 \name{list_categories}
 \alias{list_categories}
-\title{List categories available for a RIPSA indicator}
+\title{Liste as categorias disponíveis para um indicador RIPSA}
 \usage{
 list_categories(code)
 }
 \arguments{
-\item{code}{Character scalar. RIPSA indicator code, for example
+\item{code}{Escalar de texto. Código RIPSA do indicador, por exemplo
 \code{"COB.4.01"}.}
 }
 \value{
-A tibble with one row per category available in the indicator source
-file. \code{category_code} and \code{category_name} are standardized for package
-users. \code{category_source_code} and \code{category_source_name} contain raw source
-values when available. Use \code{category_id}, \code{category_code}, or
-\code{category_name} in \code{get_indicator()}.
+Uma tibble com uma linha por categoria disponível no arquivo de
+origem do indicador. \code{category_code} e \code{category_name} são padronizados
+para uso no pacote. \code{category_source_code} e \code{category_source_name} contêm
+os valores brutos da fonte quando disponíveis. Use \code{category_id},
+\code{category_code} ou \code{category_name} em \code{get_indicator()}.
 }
 \description{
-List categories available for a RIPSA indicator
+Liste as categorias disponíveis para um indicador RIPSA
 }

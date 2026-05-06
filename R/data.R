@@ -1,38 +1,38 @@
-#' RIPSA indicator metadata
+#' Metadados dos indicadores RIPSA
 #'
-#' A dataset with the RIPSA indicators currently registered in the package.
+#' Tabela com os indicadores RIPSA atualmente registrados no pacote.
 #'
-#' @format A tibble with columns:
+#' @format Uma tibble com as colunas:
 #' \describe{
-#'   \item{id}{RIPSA indicator code.}
-#'   \item{theme}{Indicator theme.}
-#'   \item{dimension}{Indicator dimension.}
-#'   \item{name}{Indicator name.}
-#'   \item{ckan_package}{CKAN package slug.}
-#'   \item{ckan_resource}{CKAN resource id.}
-#'   \item{ckan_resource_url}{CKAN resource page URL.}
-#'   \item{download_url}{Current CSV zip download URL exposed by the CKAN resource.}
-#'   \item{spatial_granularity}{Comma-separated geographic levels available in the source file.}
-#'   \item{time_granularity}{Temporal granularity inferred from the source file.}
-#'   \item{time_start}{First date available in the source file.}
-#'   \item{time_end}{Last date available in the source file.}
-#'   \item{available_categories}{Comma-separated standardized category codes available in the source file.}
-#'   \item{available_category_names}{Pipe-separated standardized category labels available in the source file.}
+#'   \item{id}{Código RIPSA do indicador.}
+#'   \item{theme}{Tema do indicador.}
+#'   \item{dimension}{Dimensão do indicador.}
+#'   \item{name}{Nome do indicador.}
+#'   \item{ckan_package}{Identificador do pacote CKAN.}
+#'   \item{ckan_resource}{Identificador do recurso CKAN.}
+#'   \item{ckan_resource_url}{URL da página do recurso CKAN.}
+#'   \item{download_url}{URL atual para baixar o arquivo CSV compactado do recurso CKAN.}
+#'   \item{spatial_granularity}{Níveis geográficos disponíveis no arquivo de origem, separados por vírgula.}
+#'   \item{time_granularity}{Granularidade temporal inferida a partir do arquivo de origem.}
+#'   \item{time_start}{Primeira data disponível no arquivo de origem.}
+#'   \item{time_end}{Última data disponível no arquivo de origem.}
+#'   \item{available_categories}{Códigos padronizados das categorias disponíveis, separados por vírgula.}
+#'   \item{available_category_names}{Nomes padronizados das categorias disponíveis, separados por barra vertical.}
 #' }
 "indicators"
 
-#' RIPSA indicator category metadata
+#' Metadados das categorias dos indicadores RIPSA
 #'
-#' A dataset with standardized category metadata for each RIPSA indicator.
+#' Tabela com metadados padronizados de categorias para cada indicador RIPSA.
 #'
-#' @format A tibble with columns:
+#' @format Uma tibble com as colunas:
 #' \describe{
-#'   \item{indicator_code}{RIPSA indicator code.}
-#'   \item{category_id}{Sequential category id within each indicator.}
-#'   \item{category_code}{Standardized category code for use in `get_indicator()`.}
-#'   \item{category_name}{Standardized category label.}
-#'   \item{category_source_code}{Raw source category code when available.}
-#'   \item{category_source_name}{Raw source category label when available.}
+#'   \item{indicator_code}{Código RIPSA do indicador.}
+#'   \item{category_id}{Identificador sequencial da categoria dentro de cada indicador.}
+#'   \item{category_code}{Código padronizado da categoria para uso em `get_indicator()`.}
+#'   \item{category_name}{Nome padronizado da categoria.}
+#'   \item{category_source_code}{Código bruto da categoria no arquivo de origem, quando disponível.}
+#'   \item{category_source_name}{Nome bruto da categoria no arquivo de origem, quando disponível.}
 #' }
 "indicator_categories"
 

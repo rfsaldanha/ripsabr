@@ -1,22 +1,22 @@
-#' List available RIPSA indicators
+#' Liste os indicadores RIPSA disponíveis
 #'
-#' @return A tibble with one row per indicator currently registered in the
-#'   package metadata.
+#' @return Uma tibble com uma linha por indicador registrado nos metadados do
+#'   pacote.
 #' @export
 list_indicators <- function() {
   tibble::as_tibble(indicators)
 }
 
-#' List categories available for a RIPSA indicator
+#' Liste as categorias disponíveis para um indicador RIPSA
 #'
-#' @param code Character scalar. RIPSA indicator code, for example
+#' @param code Escalar de texto. Código RIPSA do indicador, por exemplo
 #'   `"COB.4.01"`.
 #'
-#' @return A tibble with one row per category available in the indicator source
-#'   file. `category_code` and `category_name` are standardized for package
-#'   users. `category_source_code` and `category_source_name` contain raw source
-#'   values when available. Use `category_id`, `category_code`, or
-#'   `category_name` in `get_indicator()`.
+#' @return Uma tibble com uma linha por categoria disponível no arquivo de
+#'   origem do indicador. `category_code` e `category_name` são padronizados
+#'   para uso no pacote. `category_source_code` e `category_source_name` contêm
+#'   os valores brutos da fonte quando disponíveis. Use `category_id`,
+#'   `category_code` ou `category_name` em `get_indicator()`.
 #' @export
 list_categories <- function(code) {
   code <- rlang::arg_match0(code, indicators$id)
@@ -28,55 +28,57 @@ list_categories <- function(code) {
   categories_from_indicator_metadata(code)
 }
 
-#' Download a RIPSA indicator
+#' Baixe um indicador RIPSA
 #'
-#' `get_indicator()` downloads the indicator identified by `code` and returns a
-#' standardized time series for the requested geographic level.
+#' `get_indicator()` baixa o indicador identificado por `code` e retorna uma
+#' série temporal padronizada para o nível geográfico solicitado.
 #'
-#' @param code Character scalar. RIPSA indicator code, for example
+#' @param code Escalar de texto. Código RIPSA do indicador, por exemplo
 #'   `"MRB.1.01"`.
-#' @param geo Character scalar. Geographic level to return. One of
+#' @param geo Escalar de texto. Nível geográfico a retornar. Um de
 #'   `"municipality"`, `"state"`, `"region"`, `"health_region"`,
-#'   `"macro_region"`, or `"country"`.
-#' @param geo_code Optional vector of geographic codes to keep. Codes are
-#'   compared as character values.
-#' @param category Optional vector of category codes or names to keep. Use
-#'   `"total"` for the total/all-categories rows when they are available in the
-#'   source file. You can also pass a category name returned by
-#'   `list_categories()`, such as
-#'   `"Nascidos vivos com 7 ou mais consultas"`. Defaults to `NULL`, keeping
-#'   every category present in the source file.
-#' @param category_id Optional vector of category ids returned by
-#'   `list_categories()`.
+#'   `"macro_region"` ou `"country"`.
+#' @param geo_code Vetor opcional de códigos geográficos a manter. Os códigos
+#'   são comparados como texto.
+#' @param category Vetor opcional de códigos ou nomes de categorias a manter.
+#'   Use `"total"` para linhas de total/todas as categorias quando elas
+#'   existirem no arquivo de origem. Também é possível passar um nome retornado
+#'   por `list_categories()`, como
+#'   `"Nascidos vivos com 7 ou mais consultas"`. O padrão é `NULL`, mantendo
+#'   todas as categorias presentes no arquivo de origem.
+#' @param category_id Vetor opcional de identificadores de categoria retornados
+#'   por `list_categories()`.
 #'
 #' @details
-#' The easiest way to choose categories is to call `list_categories(code)` and
-#' use the returned `category_id`, `category_code`, or `category_name`.
+#' A forma mais simples de escolher categorias é chamar `list_categories(code)`
+#' e usar `category_id`, `category_code` ou `category_name`.
 #'
-#' For files with RIPSA category columns, `category` can receive a full
-#' `category_code` returned by this function, such as `"TC:0"`, or a category
-#' prefix, such as `"TC"`. Passing a prefix keeps every item under that
-#' category.
+#' Em arquivos com colunas de categoria da RIPSA, `category` pode receber um
+#' `category_code` completo retornado por esta função, como `"TC:0"`, ou um
+#' prefixo de categoria, como `"TC"`. Ao passar um prefixo, todos os itens
+#' daquela categoria são mantidos.
 #'
-#' The category prefixes currently found in the RIPSA CKAN indicator files are:
+#' Os prefixos de categoria atualmente encontrados nos arquivos CKAN da RIPSA
+#' são:
 #' `"API"`, `"COR"`, `"cor_raca"`, `"EA"`, `"ESP"`, `"ETI"`, `"EV"`, `"FE"`,
 #' `"FER"`, `"fx_etaria"`, `"fx_rdpc"`, `"FXETC1"`, `"FXETC2"`, `"GC"`,
 #' `"GIF"`, `"Idade"`, `"IG"`, `"PESSOA1"`, `"sap"`, `"SD"`, `"sexo"`,
 #' `"SFE"`, `"SG"`, `"sitdom"`, `"SVA"`, `"TC"`, `"TD"`, `"tipoarea"`,
-#' and `"TPC"`.
+#' e `"TPC"`.
 #'
-#' For legacy numerator/denominator files, the source does not expose a fixed
-#' category vocabulary. In these files, `category_code` is generated with
-#' `make.names()` from each numerator column label after removing the
-#' `"Numerador - "` prefix. Use `category = NULL` once to inspect the available
-#' `category_code` values for a specific indicator.
+#' Em arquivos legados com numerador e denominador, a fonte não expõe um
+#' vocabulário fixo de categorias. Nesses arquivos, `category_code` é gerado
+#' com `make.names()` a partir do rótulo de cada coluna de numerador, após
+#' remover o prefixo `"Numerador - "`. Use `category = NULL` uma vez para
+#' inspecionar os valores de `category_code` disponíveis para um indicador
+#' específico.
 #'
-#' @return A tibble with standardized columns: `indicator_code`,
+#' @return Uma tibble com colunas padronizadas: `indicator_code`,
 #'   `indicator_name`, `theme`, `dimension`, `period`, `date`, `geo_level`,
-#'   `geo_code`, `geo_name`, `value`, `unit`, `category_code`, `category`, and
-#'   `update_date`. For legacy RIPSA files that expose more than one numerator,
-#'   `category_code` and `category` identify the numerator used to calculate
-#'   each value.
+#'   `geo_code`, `geo_name`, `value`, `unit`, `category_code`, `category` e
+#'   `update_date`. Em arquivos legados da RIPSA com mais de um numerador,
+#'   `category_code` e `category` identificam o numerador usado para calcular
+#'   cada valor.
 #' @importFrom rlang .data .env
 #' @export
 get_indicator <- function(

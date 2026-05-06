@@ -3,30 +3,30 @@
 \docType{data}
 \name{indicators}
 \alias{indicators}
-\title{RIPSA indicator metadata}
+\title{Metadados dos indicadores RIPSA}
 \format{
-A tibble with columns:
+Uma tibble com as colunas:
 \describe{
-\item{id}{RIPSA indicator code.}
-\item{theme}{Indicator theme.}
-\item{dimension}{Indicator dimension.}
-\item{name}{Indicator name.}
-\item{ckan_package}{CKAN package slug.}
-\item{ckan_resource}{CKAN resource id.}
-\item{ckan_resource_url}{CKAN resource page URL.}
-\item{download_url}{Current CSV zip download URL exposed by the CKAN resource.}
-\item{spatial_granularity}{Comma-separated geographic levels available in the source file.}
-\item{time_granularity}{Temporal granularity inferred from the source file.}
-\item{time_start}{First date available in the source file.}
-\item{time_end}{Last date available in the source file.}
-\item{available_categories}{Comma-separated standardized category codes available in the source file.}
-\item{available_category_names}{Pipe-separated standardized category labels available in the source file.}
+\item{id}{Código RIPSA do indicador.}
+\item{theme}{Tema do indicador.}
+\item{dimension}{Dimensão do indicador.}
+\item{name}{Nome do indicador.}
+\item{ckan_package}{Identificador do pacote CKAN.}
+\item{ckan_resource}{Identificador do recurso CKAN.}
+\item{ckan_resource_url}{URL da página do recurso CKAN.}
+\item{download_url}{URL atual para baixar o arquivo CSV compactado do recurso CKAN.}
+\item{spatial_granularity}{Níveis geográficos disponíveis no arquivo de origem, separados por vírgula.}
+\item{time_granularity}{Granularidade temporal inferida a partir do arquivo de origem.}
+\item{time_start}{Primeira data disponível no arquivo de origem.}
+\item{time_end}{Última data disponível no arquivo de origem.}
+\item{available_categories}{Códigos padronizados das categorias disponíveis, separados por vírgula.}
+\item{available_category_names}{Nomes padronizados das categorias disponíveis, separados por barra vertical.}
 }
 }
 \usage{
 indicators
 }
 \description{
-A dataset with the RIPSA indicators currently registered in the package.
+Tabela com os indicadores RIPSA atualmente registrados no pacote.
 }
 \keyword{datasets}

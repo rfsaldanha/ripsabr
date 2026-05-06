@@ -1,5 +1,5 @@
 Package: ripsabr
-Title: Access RIPSA Health Indicators
+Title: Acesse Indicadores de Saúde da RIPSA
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Raphael",
@@ -9,9 +9,9 @@ Authors@R:
            comment = c(ORCID = "0000-0003-0652-8466"))
 Author: Raphael Saldanha [aut, cre]
 Maintainer: Raphael Saldanha <raphael.saldanha@fiocruz.br>
-Description: Downloads health indicators produced by the Rede
-    Interagencial de Informacoes para a Saude (RIPSA) and returns them as
-    standardized tibbles by indicator code and geographic unit.
+Description: Baixa indicadores de saúde produzidos pela Rede
+    Interagencial de Informações para a Saúde (RIPSA) e retorna os dados
+    como tibbles padronizadas por código do indicador e unidade geográfica.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
@@ -26,7 +26,10 @@ Imports:
     rlang,
     tibble
 Suggests:
+    knitr,
+    rmarkdown,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 LazyData: true
 URL: https://rfsaldanha.github.io/ripsabr/
+VignetteBuilder: knitr

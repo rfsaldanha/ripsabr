@@ -2,14 +2,14 @@
 % Please edit documentation in R/get_indicator.R
 \name{list_indicators}
 \alias{list_indicators}
-\title{List available RIPSA indicators}
+\title{Liste os indicadores RIPSA disponíveis}
 \usage{
 list_indicators()
 }
 \value{
-A tibble with one row per indicator currently registered in the
-package metadata.
+Uma tibble com uma linha por indicador registrado nos metadados do
+pacote.
 }
 \description{
-List available RIPSA indicators
+Liste os indicadores RIPSA disponíveis
 }

@@ -3,22 +3,22 @@
 \docType{data}
 \name{indicator_categories}
 \alias{indicator_categories}
-\title{RIPSA indicator category metadata}
+\title{Metadados das categorias dos indicadores RIPSA}
 \format{
-A tibble with columns:
+Uma tibble com as colunas:
 \describe{
-\item{indicator_code}{RIPSA indicator code.}
-\item{category_id}{Sequential category id within each indicator.}
-\item{category_code}{Standardized category code for use in \code{get_indicator()}.}
-\item{category_name}{Standardized category label.}
-\item{category_source_code}{Raw source category code when available.}
-\item{category_source_name}{Raw source category label when available.}
+\item{indicator_code}{Código RIPSA do indicador.}
+\item{category_id}{Identificador sequencial da categoria dentro de cada indicador.}
+\item{category_code}{Código padronizado da categoria para uso em \code{get_indicator()}.}
+\item{category_name}{Nome padronizado da categoria.}
+\item{category_source_code}{Código bruto da categoria no arquivo de origem, quando disponível.}
+\item{category_source_name}{Nome bruto da categoria no arquivo de origem, quando disponível.}
 }
 }
 \usage{
 indicator_categories
 }
 \description{
-A dataset with standardized category metadata for each RIPSA indicator.
+Tabela com metadados padronizados de categorias para cada indicador RIPSA.
 }
 \keyword{datasets}
