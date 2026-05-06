@@ -1,6 +1,6 @@
-# List available RIPSA indicators
+# Liste os indicadores RIPSA disponíveis
 
-List available RIPSA indicators
+Liste os indicadores RIPSA disponíveis
 
 ## Usage
 
@@ -10,5 +10,5 @@ list_indicators()
 
 ## Value
 
-A tibble with one row per indicator currently registered in the package
-metadata.
+Uma tibble com uma linha por indicador registrado nos metadados do
+pacote.

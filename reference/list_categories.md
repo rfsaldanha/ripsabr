@@ -1,6 +1,6 @@
-# List categories available for a RIPSA indicator
+# Liste as categorias disponíveis para um indicador RIPSA
 
-List categories available for a RIPSA indicator
+Liste as categorias disponíveis para um indicador RIPSA
 
 ## Usage
 
@@ -12,13 +12,13 @@ list_categories(code)
 
 - code:
 
-  Character scalar. RIPSA indicator code, for example `"COB.4.01"`.
+  Escalar de texto. Código RIPSA do indicador, por exemplo `"COB.4.01"`.
 
 ## Value
 
-A tibble with one row per category available in the indicator source
-file. `category_code` and `category_name` are standardized for package
-users. `category_source_code` and `category_source_name` contain raw
-source values when available. Use `category_id`, `category_code`, or
-`category_name` in
+Uma tibble com uma linha por categoria disponível no arquivo de origem
+do indicador. `category_code` e `category_name` são padronizados para
+uso no pacote. `category_source_code` e `category_source_name` contêm os
+valores brutos da fonte quando disponíveis. Use `category_id`,
+`category_code` ou `category_name` em
 [`get_indicator()`](https://rfsaldanha.github.io/ripsabr/reference/get_indicator.md).

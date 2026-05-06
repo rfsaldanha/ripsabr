@@ -1,6 +1,6 @@
-# RIPSA indicator metadata
+# Metadados dos indicadores RIPSA
 
-A dataset with the RIPSA indicators currently registered in the package.
+Tabela com os indicadores RIPSA atualmente registrados no pacote.
 
 ## Usage
 
@@ -10,62 +10,63 @@ indicators
 
 ## Format
 
-A tibble with columns:
+Uma tibble com as colunas:
 
 - id:
 
-  RIPSA indicator code.
+  Código RIPSA do indicador.
 
 - theme:
 
-  Indicator theme.
+  Tema do indicador.
 
 - dimension:
 
-  Indicator dimension.
+  Dimensão do indicador.
 
 - name:
 
-  Indicator name.
+  Nome do indicador.
 
 - ckan_package:
 
-  CKAN package slug.
+  Identificador do pacote CKAN.
 
 - ckan_resource:
 
-  CKAN resource id.
+  Identificador do recurso CKAN.
 
 - ckan_resource_url:
 
-  CKAN resource page URL.
+  URL da página do recurso CKAN.
 
 - download_url:
 
-  Current CSV zip download URL exposed by the CKAN resource.
+  URL atual para baixar o arquivo CSV compactado do recurso CKAN.
 
 - spatial_granularity:
 
-  Comma-separated geographic levels available in the source file.
+  Níveis geográficos disponíveis no arquivo de origem, separados por
+  vírgula.
 
 - time_granularity:
 
-  Temporal granularity inferred from the source file.
+  Granularidade temporal inferida a partir do arquivo de origem.
 
 - time_start:
 
-  First date available in the source file.
+  Primeira data disponível no arquivo de origem.
 
 - time_end:
 
-  Last date available in the source file.
+  Última data disponível no arquivo de origem.
 
 - available_categories:
 
-  Comma-separated standardized category codes available in the source
-  file.
+  Códigos padronizados das categorias disponíveis, separados por
+  vírgula.
 
 - available_category_names:
 
-  Pipe-separated standardized category labels available in the source
-  file.
+  Nomes padronizados das categorias disponíveis, separados por barra
+  vertical.

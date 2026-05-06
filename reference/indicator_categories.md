@@ -1,6 +1,7 @@
-# RIPSA indicator category metadata
+# Metadados das categorias dos indicadores RIPSA
 
-A dataset with standardized category metadata for each RIPSA indicator.
+Tabela com metadados padronizados de categorias para cada indicador
+RIPSA.
 
 ## Usage
 
@@ -10,29 +11,29 @@ indicator_categories
 
 ## Format
 
-A tibble with columns:
+Uma tibble com as colunas:
 
 - indicator_code:
 
-  RIPSA indicator code.
+  Código RIPSA do indicador.
 
 - category_id:
 
-  Sequential category id within each indicator.
+  Identificador sequencial da categoria dentro de cada indicador.
 
 - category_code:
 
-  Standardized category code for use in
+  Código padronizado da categoria para uso em
   [`get_indicator()`](https://rfsaldanha.github.io/ripsabr/reference/get_indicator.md).
 
 - category_name:
 
-  Standardized category label.
+  Nome padronizado da categoria.
 
 - category_source_code:
 
-  Raw source category code when available.
+  Código bruto da categoria no arquivo de origem, quando disponível.
 
 - category_source_name:
 
-  Raw source category label when available.
+  Nome bruto da categoria no arquivo de origem, quando disponível.

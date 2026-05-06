@@ -7,11 +7,11 @@
 
 ## Citation
 
-Saldanha R (2026). *ripsabr: Access RIPSA Health Indicators*. R package
-version 0.0.0.9000, <https://rfsaldanha.github.io/ripsabr/>.
+Saldanha R (2026). *ripsabr: Acesse Indicadores de Saúde da RIPSA*. R
+package version 0.0.0.9000, <https://rfsaldanha.github.io/ripsabr/>.
 
     @Manual{,
-      title = {ripsabr: Access RIPSA Health Indicators},
+      title = {ripsabr: Acesse Indicadores de Saúde da RIPSA},
       author = {Raphael Saldanha},
       year = {2026},
       note = {R package version 0.0.0.9000},
